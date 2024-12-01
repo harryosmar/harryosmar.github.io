@@ -1,0 +1,133 @@
+3:I[1381,[],""]
+5:I[5735,[],""]
+6:I[7116,["214","static/chunks/214-9eb03b72f9f4d938.js","788","static/chunks/788-b7bfcff1f6e351f2.js","948","static/chunks/app/(content)/layout-7cc233a76c77a6e8.js"],"NavTabs"]
+7:I[6378,["185","static/chunks/app/layout-b0af7a93c8beaa0f.js"],"ThemeProvider"]
+4:["slug","nginx-rtmp-module","d"]
+8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+a:{"display":"inline-block"}
+b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["Scv-z6Dvp9uZ5HZJZOPDI",[[["",{"children":["(content)",{"children":["articles",{"children":[["slug","nginx-rtmp-module","d"],{"children":["__PAGE__?{\"slug\":\"nginx-rtmp-module\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":[["slug","nginx-rtmp-module","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0d1321913991825f.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}],null]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/19af54b67c47a856.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+d:I[5524,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],"BackButton"]
+e:I[830,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],"ClientShare"]
+f:I[3486,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],"Image"]
+10:I[4827,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],""]
+11:I[2766,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],"ArticleContent"]
+13:I[6083,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-cb8aa88bb806872f.js","788","static/chunks/788-b7bfcff1f6e351f2.js","353","static/chunks/app/(content)/articles/%5Bslug%5D/page-23aa16008f5ef375.js"],"TableOfContents"]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"NGINX RTMP Module | Harry Osmar Sitohang | Harry Osmar Sitohang"}],["$","meta","3",{"name":"description","content":"Unleashing the Power of NGINX RTMP Module for Media Streaming. "}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"NGINX RTMP Module | Harry Osmar Sitohang"}],["$","meta","6",{"property":"og:description","content":"Unleashing the Power of NGINX RTMP Module for Media Streaming. "}],["$","meta","7",{"property":"og:url","content":"https://harryosmarsitohang.com/articles/nginx-rtmp-module"}],["$","meta","8",{"property":"og:site_name","content":"Harry Osmar Sitohang"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://harryosmarsitohang.com/images/articles/nginx-rtmp-module2.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"NGINX RTMP Module"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"property":"article:published_time","content":"2024-10-01T00:00:00+07:00"}],["$","meta","16",{"property":"article:author","content":"https://harryosmarsitohang.com/about/harry-osmar-sitohang"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"NGINX RTMP Module | Harry Osmar Sitohang"}],["$","meta","19",{"name":"twitter:description","content":"Unleashing the Power of NGINX RTMP Module for Media Streaming. "}],["$","meta","20",{"name":"twitter:image","content":"https://harryosmarsitohang.com/images/articles/nginx-rtmp-module2.png"}],["$","link","21",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","22",{"name":"next-size-adjust"}]]
+1:null
+12:T2de8,<p>The NGINX RTMP Module is a robust, NGINX-based media streaming server that simplifies live video streaming and playback. Designed for high performance, it supports RTMP and HLS protocols, making it a go-to solution for live streaming applications.</p>
+<p>Explore the demo: <a href="">Nginx RTMP module DEMO</a>.</p>
+<img src="/images/mermaid/mermaid-7440292164595184b408fc81e80dbc7a.svg" alt="Mermaid diagram">
+<h2 id="-why-choose-nginx-rtmp-module">🚀 Why Choose NGINX RTMP Module?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-nginx-rtmp-module" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Streamlined Setup: Integrate live streaming directly into your existing NGINX server setup with <strong>minimal configuration</strong>.</li>
+<li><strong>HLS Playback Support</strong>: Deliver your live streams with HLS for seamless playback across modern devices.</li>
+<li>Adaptability: Extend functionality using external tools like <strong>FFmpeg</strong> for tasks such as <strong>transcoding</strong> or overlay processing.</li>
+<li>Load Balancer Integration: Combine RTMP streaming with NGINX’s load balancing for efficient delivery at <strong>scale</strong>.</li>
+</ul>
+<h2 id="️-how-to-stream-with-ffmpeg-on-macos">🛠️ How to Stream with FFmpeg on macOS<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-how-to-stream-with-ffmpeg-on-macos" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Test your streaming setup by capturing video and audio input from your macOS camera and microphone using FFmpeg:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel3'</span>
+</code></pre>
+<p>In this example:</p>
+<ul>
+<li>Video &#x26; Audio Input: Captures from camera and microphone.</li>
+<li>Video Encoding: Uses <code>libx264</code> codec with 4000k bitrate.</li>
+<li>Audio Processing: Applies an equalizer filter and loudness normalization.</li>
+<li>Output Format: Streams to the RTMP endpoint.</li>
+</ul>
+<h2 id="-enable-hls-playback">📺 Enable HLS Playback<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-enable-hls-playback" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>HLS playback allows you to stream live video in a format compatible with modern browsers and devices. Use HLS playback scripts to test your setup.</p>
+<p>HLS playback script:</p>
+<pre><code class="hljs language-html"><span class="hljs-meta">&#x3C;!DOCTYPE <span class="hljs-keyword">html</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">head</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"UTF-8"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"viewport"</span> <span class="hljs-attr">content</span>=<span class="hljs-string">"width=device-width, initial-scale=1.0"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">title</span>></span>HLS Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">title</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/npm/hls.js@latest"</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">style</span>></span><span class="css">
+        <span class="hljs-selector-tag">body</span> {
+            <span class="hljs-attribute">display</span>: flex;
+            <span class="hljs-attribute">justify-content</span>: center;
+            <span class="hljs-attribute">align-items</span>: center;
+            <span class="hljs-attribute">height</span>: <span class="hljs-number">100vh</span>;
+            <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#f0f0f0</span>;
+        }
+        <span class="hljs-selector-tag">video</span> {
+            <span class="hljs-attribute">max-width</span>: <span class="hljs-number">100%</span>;
+            <span class="hljs-attribute">width</span>: <span class="hljs-number">800px</span>; <span class="hljs-comment">/* Set a width for the video */</span>
+        }
+    </span><span class="hljs-tag">&#x3C;/<span class="hljs-name">style</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">head</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>HLS Live Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">video</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"video"</span> <span class="hljs-attr">controls</span> <span class="hljs-attr">autoplay</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">video</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">script</span>></span><span class="javascript">
+    <span class="hljs-keyword">var</span> video = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">'video'</span>);
+    <span class="hljs-keyword">var</span> videoSrc = <span class="hljs-string">'http://localhost/hls/mystream/index.m3u8'</span>;
+
+    <span class="hljs-keyword">if</span> (<span class="hljs-title class_">Hls</span>.<span class="hljs-title function_">isSupported</span>()) {
+        <span class="hljs-keyword">var</span> index = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Hls</span>();
+        index.<span class="hljs-title function_">loadSource</span>(videoSrc);
+        index.<span class="hljs-title function_">attachMedia</span>(video);
+        index.<span class="hljs-title function_">on</span>(<span class="hljs-title class_">Hls</span>.<span class="hljs-property">Events</span>.<span class="hljs-property">MANIFEST_PARSED</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (video.<span class="hljs-title function_">canPlayType</span>(<span class="hljs-string">'application/vnd.apple.mpegurl'</span>)) {
+        video.<span class="hljs-property">src</span> = videoSrc; <span class="hljs-comment">// Fallback for Safari</span>
+        video.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'loadedmetadata'</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    }
+</span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span>
+</code></pre>
+<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Ease of Use: Quickly set up live streaming with minimal configuration.</li>
+<li>Flexible: Extend functionality by <strong>running executable</strong> files, such as FFmpeg, to enable additional features like transcoding or watermarking.</li>
+<li>Seamless Device Support: Combine RTMP input with HLS output for universal playback.</li>
+</ul>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Limited Scripting Capability: The RTMP module itself has limited scripting options, but this can be <strong>mitigated</strong> by integrating external tools like <strong>FFmpeg</strong>.</li>
+</ul>
+<h2 id="-get-started-now">🎯 Get Started Now<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-get-started-now" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="1-clone-the-repository">1. Clone the repository:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-clone-the-repository" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Clone the demo project and build the Docker image:</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://gitlab.com/harry.sitohang/nginx-rtmp
+<span class="hljs-built_in">cd</span> nginx-rtmp
+docker build -t my-nginx-rtmp:v1 .
+</code></pre>
+<p>Run the Docker container with the required configuration:</p>
+<pre><code class="hljs language-bash">docker <span class="hljs-built_in">rm</span> -f nginx-rtmp &#x26;&#x26; docker run -d --name nginx-rtmp \
+-p 1935:1935 -p 80:80 -p 9001:9001 \
+-v $(<span class="hljs-built_in">pwd</span>)/nginx.conf:/etc/nginx/nginx.conf \
+-v $(<span class="hljs-built_in">pwd</span>)/tmp/hls:/tmp/hls \
+-v $(<span class="hljs-built_in">pwd</span>)/var/log:/var/log/nginx \
+my-nginx-rtmp:v1
+</code></pre>
+<h3 id="2-stream-with-ffmpeg-from-camera-and-microphone">2. Stream with FFmpeg from Camera and Microphone<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-stream-with-ffmpeg-from-camera-and-microphone" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Stream live video and audio to the RTMP server:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel'</span>
+</code></pre>
+<h3 id="3-republish-stream-from-hls-to-oss-rtmp">3. Republish Stream from HLS to OSS RTMP<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-republish-stream-from-hls-to-oss-rtmp" class="anchor" aria-hidden="true">#</a></span></h3>
+<pre><code class="hljs language-bash">ffmpeg -i http://localhost/hls/mychannel/index.m3u8 -c:v copy -c:a copy \
+-f flv <span class="hljs-string">"rtmp://anotherhost:1935/live/channel"</span>
+</code></pre>
+<h2 id="-documentation">📄 Documentation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-documentation" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li><a href="https://github.com/arut/nginx-rtmp-module/wiki/Directives#hls_sync">NGINX RTMP Module Directives</a></li>
+<li><a href="https://github.com/tiangolo/nginx-rtmp-docker/blob/master/Dockerfile">Tiangolo’s NGINX RTMP Docker</a></li>
+</ul>
+<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>The NGINX RTMP Module is a game-changer for live streaming, offering a powerful and flexible solution. Coupled with tools like FFmpeg, you can achieve professional-grade streaming setups with <strong>minimal effort</strong>. Start building your live streaming platform today!</p>2:["$","div",null,{"className":"min-h-screen","children":[["$","div",null,{"children":["$","div",null,{"className":"max-w-[692px] mx-auto px-4 pt-20 pb-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":[["$","$Ld",null,{"href":"/articles","label":"← Articles","className":"text-sm text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100"}],["$","$Le",null,{"type":"articles","slug":"nginx-rtmp-module","title":"NGINX RTMP Module"}]]}],["$","h1",null,{"className":"text-4xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100 mb-8","children":"NGINX RTMP Module"}],["$","div",null,{"className":"flex items-start gap-3 mb-12","children":[["$","div",null,{"className":"w-12 h-12 rounded-full overflow-hidden flex-shrink-0","children":["$","$Lf",null,{"src":"/images/about/harry.jpeg","alt":"Harry Osmar Sitohang","width":48,"height":48,"className":"w-full h-full object-cover"}]}],["$","div",null,{"className":"flex flex-col flex-1","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","$L10",null,{"href":"/about/harry-osmar-sitohang","className":"text-[15px] font-medium text-neutral-900 dark:text-neutral-100 hover:underline","children":"Harry Osmar Sitohang"}]}],["$","div",null,{"className":"flex items-center gap-1 text-[14px] text-neutral-500","children":[["$","div",null,{"className":"text-neutral-500","children":"Senior Principal Engineer"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2024-10-01T00:00:00+07:00","children":"Sep 30, 2024"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[4," min read"]}]]}]]}]]}],["$","div",null,{"className":"relative aspect-[16/9] rounded-lg overflow-hidden mb-12","children":["$","$Lf",null,{"src":"/images/articles/nginx-rtmp-module2.png","alt":"NGINX RTMP Module","fill":true,"className":"object-cover","priority":true}]}]]}]}],["$","div",null,{"className":"relative","children":["$","div",null,{"className":"lg:grid lg:grid-cols-[692px_250px] lg:gap-16 lg:justify-center","children":[["$","article",null,{"className":"mx-auto w-full px-4 pb-20","children":[["$","div",null,{"className":"sticky top-0 z-10 -mx-4 px-4 py-3 bg-white/95 dark:bg-neutral-900/95 backdrop-blur-sm border-b border-neutral-200 dark:border-neutral-800","children":["$","div",null,{"className":"flex items-center justify-between max-w-[692px] mx-auto","children":[["$","$L10",null,{"href":"/about/harry-osmar-sitohang","className":"flex items-center gap-4 hover:opacity-80 transition-opacity","children":[["$","div",null,{"className":"w-8 h-8 rounded-full bg-neutral-200 dark:bg-neutral-800 overflow-hidden","children":["$","$Lf",null,{"src":"/images/about/harry.jpeg","alt":"Harry Osmar Sitohang","width":32,"height":32,"className":"w-full h-full object-cover"}]}],["$","div",null,{"className":"text-sm font-medium text-neutral-900 dark:text-neutral-100","children":[["$","span",null,{"children":"Harry Osmar Sitohang"}],["$","span",null,{"className":"text-neutral-500 text-xs ml-2","children":"Sep 30, 2024"}]]}]]}],["$","$Le",null,{"type":"articles","slug":"nginx-rtmp-module","title":"NGINX RTMP Module"}]]}]}],["$","div",null,{"className":"mt-8 prose dark:prose-invert prose-neutral max-w-none prose-headings:font-serif prose-headings:tracking-tight prose-headings:font-normal prose-h2:text-[24px] prose-h2:leading-[32px] prose-p:text-neutral-800 dark:prose-p:text-neutral-200 prose-p:leading-[32px] prose-a:text-neutral-900 dark:prose-a:text-neutral-100 prose-a:decoration-neutral-300 dark:prose-a:decoration-neutral-700 hover:prose-a:decoration-neutral-600 dark:hover:prose-a:decoration-neutral-400","children":["$","$L11",null,{"content":"$12"}]}]]}],["$","aside",null,{"className":"hidden lg:block px-4","children":["$","div",null,{"className":"sticky top-8","children":["$","$L13",null,{}]}]}]]}]}]]}]
