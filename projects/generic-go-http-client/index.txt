@@ -1,0 +1,114 @@
+3:I[1381,[],""]
+5:I[5735,[],""]
+6:I[7116,["214","static/chunks/214-9eb03b72f9f4d938.js","788","static/chunks/788-b7bfcff1f6e351f2.js","948","static/chunks/app/(content)/layout-7cc233a76c77a6e8.js"],"NavTabs"]
+7:I[6378,["185","static/chunks/app/layout-8dee285a5d9938d9.js"],"ThemeProvider"]
+4:["slug","generic-go-http-client","d"]
+8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+a:{"display":"inline-block"}
+b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["l9LNUeGrvk7CHR5W-_F7x",[[["",{"children":["(content)",{"children":["projects",{"children":[["slug","generic-go-http-client","d"],{"children":["__PAGE__?{\"slug\":\"generic-go-http-client\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["projects",{"children":[["slug","generic-go-http-client","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","projects","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58640552b67a3ac6.css","precedence":"next","crossOrigin":""}]]}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","projects","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}],null]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d7270f9f04a02486.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+d:I[5524,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"BackButton"]
+e:I[830,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"ClientShare"]
+f:I[7894,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"ContributorsList"]
+10:I[3701,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"LazyImage"]
+11:I[2766,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"ArticleContent"]
+13:I[6083,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","788","static/chunks/788-b7bfcff1f6e351f2.js","218","static/chunks/app/(content)/projects/%5Bslug%5D/page-90dafe8c1fd81446.js"],"TableOfContents"]
+12:T1fae,<blockquote>
+<p>A lightweight and generic HTTP client for Go, built to simplify HTTP requests and responses while maintaining flexibility. This package wraps Go's standard net/http client and introduces the power of generics, enabling you to define request and response types effortlessly.</p>
+</blockquote>
+<h2 id="-features">✨ Features<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-features" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Generic Request &#x26; Response: Use typed requests and responses for safer and more readable code.</li>
+<li>Request Context: Fully supports context.Context to manage request deadlines and cancellations.</li>
+<li>Request/Response Logging: Easily enable or disable logging for debugging or monitoring purposes.</li>
+<li>Clean API: Simple, intuitive, and extendable.</li>
+</ul>
+<h2 id="-installation">🔧 Installation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-installation" class="anchor" aria-hidden="true">#</a></span></h2>
+<pre><code class="hljs language-shell">go get github.com/harryosmar/http-client-go
+</code></pre>
+<h2 id="-getting-started">🚀 Getting Started<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-getting-started" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Define Your Generic Request and Response</p>
+<pre><code class="hljs language-go"><span class="hljs-keyword">package</span> main
+
+<span class="hljs-keyword">import</span> (
+	<span class="hljs-string">"context"</span>
+	<span class="hljs-string">"fmt"</span>
+	<span class="hljs-string">"log"</span>
+	<span class="hljs-string">"github.com/harryosmar/http-client-go/v2"</span>
+)
+
+<span class="hljs-keyword">type</span> MyRequest <span class="hljs-keyword">struct</span> {
+	Name <span class="hljs-type">string</span> <span class="hljs-string">`json:"name"`</span>
+}
+
+<span class="hljs-keyword">type</span> MyResponse <span class="hljs-keyword">struct</span> {
+	Greeting <span class="hljs-type">string</span> <span class="hljs-string">`json:"greeting"`</span>
+}
+
+<span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span> {
+	client := http_client_go.NewHTTPClient()
+
+	req := MyRequest{Name: <span class="hljs-string">"John Doe"</span>}
+	headers := <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>{
+		<span class="hljs-string">"Content-Type"</span>: <span class="hljs-string">"application/json"</span>,
+	}
+
+	<span class="hljs-comment">// Send POST request</span>
+	response, err := http_client_go.Post[MyRequest, MyResponse](
+		context.Background(),
+		client,
+		<span class="hljs-string">"https://api.example.com/greet"</span>,
+		req,
+		headers,
+	)
+	<span class="hljs-keyword">if</span> err != <span class="hljs-literal">nil</span> {
+		log.Fatalf(<span class="hljs-string">"Error: %v"</span>, err)
+	}
+
+	fmt.Printf(<span class="hljs-string">"Response: %+v\n"</span>, response.Content)
+	fmt.Printf(<span class="hljs-string">"Duration: %dms\n"</span>, response.Duration)
+}
+</code></pre>
+<h2 id="-available-methods">📖 Available Methods<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-available-methods" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Generic Methods Overview</p>
+<h3 id="1-get">1. GET<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-get" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Perform a GET request with optional query parameters.</p>
+<pre><code class="hljs language-go">Get[ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, queries <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>][]<span class="hljs-type">string</span>, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h3 id="2-post">2. POST<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-post" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Send a JSON-encoded POST request with a payload.</p>
+<pre><code class="hljs language-go">Post[RequestType any, ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, payload RequestType, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h3 id="3-post-form-url-encoded">3. POST Form-URL-Encoded<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-post-form-url-encoded" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Send a POST request with form-url-encoded data.</p>
+<pre><code class="hljs language-go">PostFormUrlEncoded[ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, payload url.Values, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h3 id="4-post-multipart">4. POST Multipart<span class="ml-2 opacity-0 hover:opacity-100"><a href="#4-post-multipart" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Upload files using multipart/form-data.</p>
+<pre><code class="hljs language-go">PostMultipart[ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, file *os.File, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h3 id="5-put">5. PUT<span class="ml-2 opacity-0 hover:opacity-100"><a href="#5-put" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Send a JSON-encoded PUT request with a payload.</p>
+<pre><code class="hljs language-go">Put[RequestType any, ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, payload RequestType, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h3 id="6-delete">6. DELETE<span class="ml-2 opacity-0 hover:opacity-100"><a href="#6-delete" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Perform a DELETE request.</p>
+<pre><code class="hljs language-go">Delete[ResponseType any](ctx context.Context, client HttpClientRepository, url <span class="hljs-type">string</span>, headers <span class="hljs-keyword">map</span>[<span class="hljs-type">string</span>]<span class="hljs-type">string</span>) (Response[ResponseType], <span class="hljs-type">error</span>)
+</code></pre>
+<h2 id="-error-handling">📦 Error Handling<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-error-handling" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Errors are wrapped in a ResponseErr struct to provide detailed information about failed requests:</p>
+<ul>
+<li><code>Content</code>: Error details, parsed if possible.</li>
+<li><code>StatusCode</code>: HTTP status code of the response.</li>
+<li><code>Duration</code>: Time taken for the request (ms).</li>
+<li><code>Header</code>: HTTP response headers.</li>
+</ul>
+<h2 id="️-advanced-features">🛠️ Advanced Features<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-advanced-features" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="raw-payload-support">Raw Payload Support<span class="ml-2 opacity-0 hover:opacity-100"><a href="#raw-payload-support" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Send raw []byte data using PostRaw.</p>
+<pre><code class="hljs language-go">rawPayload := []<span class="hljs-type">byte</span>(<span class="hljs-string">`{"key": "value"}`</span>)
+response, err := http_client_go.PostRaw[MyResponse](ctx, client, url, rawPayload, headers)
+</code></pre>2:["$","div",null,{"className":"min-h-screen","children":[["$","div",null,{"children":["$","div",null,{"className":"max-w-[692px] mx-auto px-4 pt-20 pb-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":[["$","$Ld",null,{"href":"/projects","label":"← Projects","className":"text-sm text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100"}],["$","$Le",null,{"type":"projects","slug":"generic-go-http-client","title":"Generic Go Http Client"}]]}],["$","h1",null,{"className":"text-4xl font-serif mb-4 text-neutral-900 dark:text-neutral-100","children":"Generic Go Http Client"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-8","children":[["$","span","Go",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"Go"}],["$","span","net/http",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"net/http"}],["$","span","Generic",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"Generic"}],["$","span","Logging",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"Logging"}],["$","span","Multipart",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"Multipart"}],["$","span","Form Data",{"className":"px-3 py-1 text-sm rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400","children":"Form Data"}]]}],["$","div",null,{"className":"flex gap-4 mb-8","children":[["$","a",null,{"href":"https://github.com/harryosmar/http-client-go","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-neutral-100 dark:bg-neutral-800 text-neutral-900 dark:text-neutral-100 hover:bg-neutral-200 dark:hover:bg-neutral-700 transition-colors","children":[["$","span",null,{"children":"GitHub"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}]]}],""]}],["$","$Lf",null,{"contributors":["harry-osmar-sitohang"],"className":"mb-8","style":"github"}],["$","div",null,{"className":"aspect-video rounded-xl overflow-hidden mb-12","children":["$","$L10",null,{"src":"/images/projects/generic-http-client.png","alt":"Generic Go Http Client","width":692,"height":389,"className":"w-full h-full object-cover","priority":true}]}]]}]}],["$","div",null,{"className":"relative","children":["$","div",null,{"className":"lg:grid lg:grid-cols-[692px_250px] lg:gap-16 lg:justify-center","children":[["$","article",null,{"className":"mx-auto w-full px-4 pb-20","children":[["$","div",null,{"className":"sticky top-0 z-10 -mx-4 px-4 py-3 bg-white/95 dark:bg-neutral-900/95 backdrop-blur-sm border-b border-neutral-200 dark:border-neutral-800","children":["$","div",null,{"className":"flex items-center justify-between max-w-[692px] mx-auto","children":[["$","div",null,{"className":"flex items-center gap-4","children":["$","h2",null,{"className":"text-sm font-medium text-neutral-900 dark:text-neutral-100","children":"Generic Go Http Client"}]}],["$","$Le",null,{"type":"projects","slug":"generic-go-http-client","title":"Generic Go Http Client"}]]}]}],["$","div",null,{"className":"mt-8 prose dark:prose-invert prose-neutral max-w-none prose-headings:font-serif prose-headings:tracking-tight prose-headings:font-normal prose-h2:text-[24px] prose-h2:leading-[32px] prose-p:text-neutral-800 dark:prose-p:text-neutral-200 prose-p:leading-[32px] prose-a:text-neutral-900 dark:prose-a:text-neutral-100 prose-a:decoration-neutral-300 dark:prose-a:decoration-neutral-700 hover:prose-a:decoration-neutral-600 dark:hover:prose-a:decoration-neutral-400","children":["$","$L11",null,{"content":"$12"}]}]]}],["$","aside",null,{"className":"hidden lg:block","children":["$","div",null,{"className":"sticky top-20","children":["$","$L13",null,{}]}]}]]}]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Generic Go Http Client | Harry Osmar Sitohang | Harry Osmar Sitohang"}],["$","meta","3",{"name":"description","content":"Generic Go Http Client"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Generic Go Http Client | Harry Osmar Sitohang"}],["$","meta","6",{"property":"og:description","content":"Generic Go Http Client"}],["$","meta","7",{"property":"og:url","content":"https://harryosmarsitohang.com/projects/generic-go-http-client"}],["$","meta","8",{"property":"og:site_name","content":"Harry Osmar Sitohang"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://harryosmarsitohang.com/images/projects/generic-http-client.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Generic Go Http Client"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Generic Go Http Client | Harry Osmar Sitohang"}],["$","meta","17",{"name":"twitter:description","content":"Generic Go Http Client"}],["$","meta","18",{"name":"twitter:image","content":"https://harryosmarsitohang.com/images/projects/generic-http-client.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","20",{"name":"next-size-adjust"}]]
+1:null

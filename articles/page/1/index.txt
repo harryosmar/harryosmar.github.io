@@ -1,0 +1,269 @@
+3:I[1381,[],""]
+5:I[5735,[],""]
+6:I[7116,["214","static/chunks/214-9eb03b72f9f4d938.js","788","static/chunks/788-b7bfcff1f6e351f2.js","948","static/chunks/app/(content)/layout-7cc233a76c77a6e8.js"],"NavTabs"]
+7:I[6378,["185","static/chunks/app/layout-8dee285a5d9938d9.js"],"ThemeProvider"]
+4:["page","1","d"]
+8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+a:{"display":"inline-block"}
+b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["l9LNUeGrvk7CHR5W-_F7x",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}],null]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d7270f9f04a02486.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Harry Osmar Sitohang"}],["$","meta","3",{"name":"description","content":"Personal blog and portfolio of Harry Osmar Sitohang - Software Engineer"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Harry Osmar Sitohang"}],["$","meta","6",{"property":"og:description","content":"Personal blog and portfolio of Harry Osmar Sitohang - Software Engineer"}],["$","meta","7",{"property":"og:url","content":"https://harryosmarsitohang.com/"}],["$","meta","8",{"property":"og:site_name","content":"Harry Osmar Sitohang"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://harryosmarsitohang.com/images/og-image.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Harry Osmar Sitohang"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Harry Osmar Sitohang"}],["$","meta","17",{"name":"twitter:description","content":"Personal blog and portfolio of Harry Osmar Sitohang - Software Engineer"}],["$","meta","18",{"name":"twitter:image","content":"https://harryosmarsitohang.com/images/og-image.jpg"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","20",{"name":"next-size-adjust"}]]
+1:null
+d:I[1539,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-3b694cb4c2d0a46c.js"],"LastVisitedPageHandler"]
+e:I[2870,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-3b694cb4c2d0a46c.js"],""]
+13:I[2811,["214","static/chunks/214-9eb03b72f9f4d938.js","486","static/chunks/486-a14580c3039ed7aa.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-3b694cb4c2d0a46c.js"],"Pagination"]
+f:T1548,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
+<p>Explore the demo: <a href="https://gitlab.com/harry.sitohang/react-ffmpeg-wasm#">FFMPEG WASM Demo Project</a>.</p>
+<img src="/images/mermaid/mermaid-41ceb72b91dfdd270008de8b93556b78.svg" alt="Mermaid diagram">
+<h2 id="-why-use-ffmpeg-wasm">🚀 Why Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>
+<p><strong>Offloads Server Load</strong>: Shift intensive video encoding tasks to the client-side, reducing server costs and improving scalability.</p>
+</li>
+<li>
+<p>Full Browser Compatibility: Enables real-time video and audio <strong>processing directly in user agents</strong> (browsers).</p>
+</li>
+<li>
+<p>SharedArrayBuffer for Multi-Threading: Leverages efficient memory management and <strong>multi-threading</strong> to handle large media files seamlessly.</p>
+</li>
+<li>
+<p>Versatile Media Formats: Transcode and <strong>convert</strong> between various video and audio formats directly in the browser.</p>
+</li>
+</ul>
+<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Scalable Architecture: Encode, convert, and process media <strong>on the client side</strong>, freeing server resources.</li>
+<li>Efficient Multi-Threading: Uses SharedArrayBuffer to minimize memory usage and boost <strong>performance</strong>.</li>
+<li>Cross-Platform: Works across modern browsers with <strong>WebAssembly</strong> support.</li>
+<li>No Installation Needed: <strong>Lightweight</strong> and runs entirely in the browser.</li>
+</ul>
+<p>.</p>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Large File Size: The ffmpeg-core.wasm file (~32 MB) <strong>must be downloaded</strong> by the client, which could affect load times.</li>
+<li>No RTMP Streaming: While <strong>transcoding</strong> is supported, <del>live streaming</del> to RTMP endpoints is not included.</li>
+<li>Complex Headers Setup: Requires CORS and security headers (COEP, COOP, CORP) for enabling features like <strong>SharedArrayBuffer</strong>.</li>
+</ul>
+<h2 id="-how-to-use-ffmpeg-wasm">🔧 How to Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-how-to-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="1-install-static-handler-for-headers">1. Install Static Handler for Headers<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-install-static-handler-for-headers" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>To use <code>SharedArrayBuffer</code> in the browser, add these headers to your server:</p>
+<pre><code class="hljs language-js">{
+    <span class="hljs-string">"Cross-Origin-Embedder-Policy"</span>: <span class="hljs-string">"require-corp"</span>,
+    <span class="hljs-string">"Cross-Origin-Opener-Policy"</span>: <span class="hljs-string">"same-origin"</span>
+}
+</code></pre>
+<p>Serve your static files with:</p>
+<pre><code class="hljs language-shell">npx static-handler --cors --coop --coep --corp -p 8080 ./
+</code></pre>
+<h3 id="2efficient-media-processing">2.Efficient Media Processing<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2efficient-media-processing" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Transcode videos or process audio files directly in the browser, reducing server dependency.</p>
+<h2 id="-real-benefits-of-using-ffmpeg-wasm">🌟 Real Benefits of Using FFMPEG WASM<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-real-benefits-of-using-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>On-the-Fly Media Conversion: Easily convert user-uploaded videos to compatible formats <strong>directly in the browser</strong>.</li>
+<li>Improved User Experience: Enable users to edit, trim, and enhance videos <strong>without uploading files to a server</strong>.</li>
+<li>Cost-Effective: <del>No need for expensive</del> server-side transcoding infrastructure.</li>
+</ul>
+<h2 id="️-demo-in-action">🖥️ Demo in Action<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-demo-in-action" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Check out this real-world example <a href="https://gitlab.com/harry.sitohang/react-ffmpeg-wasm#">FFMPEG WASM Demo Project</a>.</p>
+<h2 id="-learn-more">🧠 Learn More<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-learn-more" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>For a deep dive into how SharedArrayBuffer optimizes memory usage and enables multi-threading, read:</p>
+<ul>
+<li><a href="https://webreflection.medium.com/about-sharedarraybuffer-atomics-87f97ddfc098">About SharedArrayBuffer &#x26; Atomics</a>.</li>
+<li><a href="https://ffmpegwasm.netlify.app/">FFMPEG WASM Official Website</a>.</li>
+</ul>
+<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>10:Tc6d,<p>Streaming technologies are evolving to accommodate real-time content delivery with minimal latency. A particularly innovative approach involves <strong>combining WebSockets with FFMPEG</strong> to enable client-side streams to be processed and <strong>forwarded to RTMP channels</strong>. This article will explore the concept, its setup, and the pros and cons of this technique.</p>
+<p>Explore the Code:</p>
+<p>GitHub Repository: <a href="https://github.com/chuabingquan/pxy">chuabingquan/pxy 🎥 Proxy livestreams from WebSockets to RTMP</a>.</p>
+<h2 id="-how-it-works">🚀 How It Works<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-how-it-works" class="anchor" aria-hidden="true">#</a></span></h2>
+<img src="/images/mermaid/mermaid-8a4bc82f5f343e48a382f53df95e641c.svg" alt="Mermaid diagram">
+<h3 id="1-browser-connects-to-websocket-server">1. Browser Connects to WebSocket Server:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-browser-connects-to-websocket-server" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>The browser streams video data through the WebSocket protocol to the server.</p>
+<p><img src="/images/articles/3/in-progress-streaming.png" alt="start streaming to websocket using browser"></p>
+<h3 id="2-websocket-server-receives-and-processes-data">2. WebSocket Server Receives and Processes Data:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-websocket-server-receives-and-processes-data" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>The server receives the WebSocket message, processes the data, and forwards it as an FFmpeg command to the RTMP channel.</p>
+<p>The ffmpeg command.
+FFmpeg receives the WebSocket input and streams it to an RTMP endpoint for live broadcasting.</p>
+<pre><code class="hljs language-shell">
+ffmpeg -i - -vcodec copy -f flv -loglevel debug rtmp://localhost:1936/live/demo4
+</code></pre>
+<p><img src="/images/articles/3/websocket-server-to-rtmp.png" alt="websocket server forward stream messsage to RTMP channel"></p>
+<h2 id="-benefits">📺 Benefits<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-benefits" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>🟢 Ease of Use: Quickly establish a live streaming pipeline with WebSocket and FFmpeg.</li>
+<li>🟢 Minimal Server Overhead: The server acts as a simple proxy, offloading encoding and streaming tasks to FFmpeg.</li>
+</ul>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>WebSocket Overhead: WebSockets can introduce latency when compared to direct RTMP input.</li>
+<li>Dependency on FFmpeg: Requires a working FFmpeg installation on the server.</li>
+</ul>
+<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Integrating <strong>WebSockets and FFmpeg for live streaming</strong> is an effective way to bridge browser-based video sources and RTMP endpoints.</p>
+<p>Start streaming today and unlock new possibilities for browser-based live broadcasting!</p>11:T169e,<p>WebRTC (Web Real-Time Communication) is a powerful and versatile protocol that enables <strong>real-time</strong> communication, video streaming, and file sharing between browsers. If you're looking for a reliable and flexible solution for <strong>live streaming and video playback</strong>, look no further than <strong>MediaMTX</strong>, a Go-based media server that supports multiple streaming protocols including <strong>WebRTC</strong>, <strong>RTMP</strong>, <strong>SRT</strong>, and more.</p>
+<p>Explore the Code:</p>
+<p>GitHub Repository: <a href="https://github.com/bluenviron/mediamtx">mediamtx Webrtc</a>.</p>
+<h2 id="-why-choose-mediamtx-for-webrtc-streaming">🚀 Why Choose MediaMTX for WebRTC Streaming?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-mediamtx-for-webrtc-streaming" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>MediaMTX is an efficient and <strong>ready-to-use</strong> media server that allows you to stream and proxy real-time video and audio content seamlessly. It supports <strong>various protocols</strong> and can be easily integrated with other services to create a powerful live streaming solution.</p>
+<p>Key Features:</p>
+<ul>
+<li>Multi-Protocol Support: MediaMTX supports <strong>WebRTC</strong>, <strong>RTSP</strong>, <strong>RTMP</strong>, and <strong>LL-HLS</strong>, providing flexibility for different types of media streaming.</li>
+<li>Real-Time Video Streaming: With <strong>WebRTC</strong>, MediaMTX ensures low-latency streaming for real-time communication.</li>
+<li>Built with Go: Developed in Go, MediaMTX is highly performant and easily deployable.</li>
+<li>Stream Forwarding: Forward streams to other servers or cloud services such as OSS with HLS.</li>
+</ul>
+<h2 id="️-how-to-get-started-with-mediamtx">🛠️ How to Get Started with MediaMTX<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-how-to-get-started-with-mediamtx" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Clone the repository and run the server:</p>
+<pre><code class="hljs language-shell">git clone git@github.com:bluenviron/mediamtx.git
+cd mediamtx
+go mod download
+go run main.go
+</code></pre>
+<p>Once the server is up and running, you can publish your video stream by visiting:</p>
+<p><a href="http://localhost:8889/mystream/publish">http://localhost:8889/mystream/publish</a></p>
+<h2 id="-live-streaming-with-webrtc">🌐 Live Streaming with WebRTC<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-live-streaming-with-webrtc" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Once your server is set up, you can start streaming in real-time with WebRTC. Navigate to the following URL to access live streaming:</p>
+<p><a href="http://localhost:8889/mystream/">http://localhost:8889/mystream/</a></p>
+<p>WebRTC provides smooth playback with <strong>low latency</strong>, making it ideal for live streaming.</p>
+<h2 id="-hls-playback-support">🎬 HLS Playback Support<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-hls-playback-support" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>MediaMTX also supports HLS (HTTP Live Streaming) for playback. To test HLS playback, visit:</p>
+<p><a href="http://localhost:8888/mystream">http://localhost:8888/mystream</a></p>
+<p>Additionally, you can access the playlist:</p>
+<p><a href="http://localhost:8888/mystream/index.m3u8">http://localhost:8888/mystream/index.m3u8</a></p>
+<h2 id="-forwarding-streams">🔄 Forwarding Streams<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-forwarding-streams" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>MediaMTX allows you to forward streams to other servers. Here's an example of how to use FFmpeg to forward the stream to another RTMP server:</p>
+<pre><code class="hljs language-shell">ffmpeg -re -i http://localhost:8888/$MTX_PATH/index.m3u8 \
+  -c:v libx264 -c:a aac -b:a 192k -ar 48000 -af "equalizer=f=1000:t=q:w=1:g=5,loudnorm" \
+  -f flv rtmp://localhost:1936/live/$MTX_PATH
+</code></pre>
+<p>This setup allows you to broadcast your live stream to other platforms, expanding your audience reach.</p>
+<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Real-Time Streaming: WebRTC ensures smooth, low-latency streaming for a better user experience.</li>
+<li>Protocol Flexibility: Supports multiple protocols, making it easy to switch based on your needs.</li>
+<li>Forward Streams: Forward your streams to other servers, such as OSS, using FFmpeg and HLS.</li>
+<li>Easy Setup: MediaMTX's simple configuration makes it easy to get started with live streaming.</li>
+</ul>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li></li>
+<li>Advanced Features May Require Custom Configuration: For more advanced features, you may need to tweak the server setup.</li>
+<li>System Resources: Running multiple real-time streams can <strong>consume significant</strong> system resources.</li>
+</ul>
+<h2 id="-final-thoughts">🎯 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>MediaMTX is a powerful, ready-to-use solution for real-time video streaming using WebRTC and other protocols. Its versatility and ease of setup make it an excellent choice for developers looking to implement live streaming with minimal hassle. Whether you need WebRTC for low-latency streaming or HLS for broader device compatibility, MediaMTX has got you covered.</p>
+<p>Start building your WebRTC-based streaming solution today and take your media projects to the next level!</p>12:T2de8,<p>The NGINX RTMP Module is a robust, NGINX-based media streaming server that simplifies live video streaming and playback. Designed for high performance, it supports RTMP and HLS protocols, making it a go-to solution for live streaming applications.</p>
+<p>Explore the demo: <a href="">Nginx RTMP module DEMO</a>.</p>
+<img src="/images/mermaid/mermaid-7440292164595184b408fc81e80dbc7a.svg" alt="Mermaid diagram">
+<h2 id="-why-choose-nginx-rtmp-module">🚀 Why Choose NGINX RTMP Module?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-nginx-rtmp-module" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Streamlined Setup: Integrate live streaming directly into your existing NGINX server setup with <strong>minimal configuration</strong>.</li>
+<li><strong>HLS Playback Support</strong>: Deliver your live streams with HLS for seamless playback across modern devices.</li>
+<li>Adaptability: Extend functionality using external tools like <strong>FFmpeg</strong> for tasks such as <strong>transcoding</strong> or overlay processing.</li>
+<li>Load Balancer Integration: Combine RTMP streaming with NGINX’s load balancing for efficient delivery at <strong>scale</strong>.</li>
+</ul>
+<h2 id="️-how-to-stream-with-ffmpeg-on-macos">🛠️ How to Stream with FFmpeg on macOS<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-how-to-stream-with-ffmpeg-on-macos" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Test your streaming setup by capturing video and audio input from your macOS camera and microphone using FFmpeg:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel3'</span>
+</code></pre>
+<p>In this example:</p>
+<ul>
+<li>Video &#x26; Audio Input: Captures from camera and microphone.</li>
+<li>Video Encoding: Uses <code>libx264</code> codec with 4000k bitrate.</li>
+<li>Audio Processing: Applies an equalizer filter and loudness normalization.</li>
+<li>Output Format: Streams to the RTMP endpoint.</li>
+</ul>
+<h2 id="-enable-hls-playback">📺 Enable HLS Playback<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-enable-hls-playback" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>HLS playback allows you to stream live video in a format compatible with modern browsers and devices. Use HLS playback scripts to test your setup.</p>
+<p>HLS playback script:</p>
+<pre><code class="hljs language-html"><span class="hljs-meta">&#x3C;!DOCTYPE <span class="hljs-keyword">html</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">head</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"UTF-8"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"viewport"</span> <span class="hljs-attr">content</span>=<span class="hljs-string">"width=device-width, initial-scale=1.0"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">title</span>></span>HLS Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">title</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/npm/hls.js@latest"</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">style</span>></span><span class="css">
+        <span class="hljs-selector-tag">body</span> {
+            <span class="hljs-attribute">display</span>: flex;
+            <span class="hljs-attribute">justify-content</span>: center;
+            <span class="hljs-attribute">align-items</span>: center;
+            <span class="hljs-attribute">height</span>: <span class="hljs-number">100vh</span>;
+            <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#f0f0f0</span>;
+        }
+        <span class="hljs-selector-tag">video</span> {
+            <span class="hljs-attribute">max-width</span>: <span class="hljs-number">100%</span>;
+            <span class="hljs-attribute">width</span>: <span class="hljs-number">800px</span>; <span class="hljs-comment">/* Set a width for the video */</span>
+        }
+    </span><span class="hljs-tag">&#x3C;/<span class="hljs-name">style</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">head</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>HLS Live Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">video</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"video"</span> <span class="hljs-attr">controls</span> <span class="hljs-attr">autoplay</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">video</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">script</span>></span><span class="javascript">
+    <span class="hljs-keyword">var</span> video = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">'video'</span>);
+    <span class="hljs-keyword">var</span> videoSrc = <span class="hljs-string">'http://localhost/hls/mystream/index.m3u8'</span>;
+
+    <span class="hljs-keyword">if</span> (<span class="hljs-title class_">Hls</span>.<span class="hljs-title function_">isSupported</span>()) {
+        <span class="hljs-keyword">var</span> index = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Hls</span>();
+        index.<span class="hljs-title function_">loadSource</span>(videoSrc);
+        index.<span class="hljs-title function_">attachMedia</span>(video);
+        index.<span class="hljs-title function_">on</span>(<span class="hljs-title class_">Hls</span>.<span class="hljs-property">Events</span>.<span class="hljs-property">MANIFEST_PARSED</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (video.<span class="hljs-title function_">canPlayType</span>(<span class="hljs-string">'application/vnd.apple.mpegurl'</span>)) {
+        video.<span class="hljs-property">src</span> = videoSrc; <span class="hljs-comment">// Fallback for Safari</span>
+        video.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'loadedmetadata'</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    }
+</span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span>
+</code></pre>
+<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Ease of Use: Quickly set up live streaming with minimal configuration.</li>
+<li>Flexible: Extend functionality by <strong>running executable</strong> files, such as FFmpeg, to enable additional features like transcoding or watermarking.</li>
+<li>Seamless Device Support: Combine RTMP input with HLS output for universal playback.</li>
+</ul>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Limited Scripting Capability: The RTMP module itself has limited scripting options, but this can be <strong>mitigated</strong> by integrating external tools like <strong>FFmpeg</strong>.</li>
+</ul>
+<h2 id="-get-started-now">🎯 Get Started Now<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-get-started-now" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="1-clone-the-repository">1. Clone the repository:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-clone-the-repository" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Clone the demo project and build the Docker image:</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://gitlab.com/harry.sitohang/nginx-rtmp
+<span class="hljs-built_in">cd</span> nginx-rtmp
+docker build -t my-nginx-rtmp:v1 .
+</code></pre>
+<p>Run the Docker container with the required configuration:</p>
+<pre><code class="hljs language-bash">docker <span class="hljs-built_in">rm</span> -f nginx-rtmp &#x26;&#x26; docker run -d --name nginx-rtmp \
+-p 1935:1935 -p 80:80 -p 9001:9001 \
+-v $(<span class="hljs-built_in">pwd</span>)/nginx.conf:/etc/nginx/nginx.conf \
+-v $(<span class="hljs-built_in">pwd</span>)/tmp/hls:/tmp/hls \
+-v $(<span class="hljs-built_in">pwd</span>)/var/log:/var/log/nginx \
+my-nginx-rtmp:v1
+</code></pre>
+<h3 id="2-stream-with-ffmpeg-from-camera-and-microphone">2. Stream with FFmpeg from Camera and Microphone<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-stream-with-ffmpeg-from-camera-and-microphone" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Stream live video and audio to the RTMP server:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel'</span>
+</code></pre>
+<h3 id="3-republish-stream-from-hls-to-oss-rtmp">3. Republish Stream from HLS to OSS RTMP<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-republish-stream-from-hls-to-oss-rtmp" class="anchor" aria-hidden="true">#</a></span></h3>
+<pre><code class="hljs language-bash">ffmpeg -i http://localhost/hls/mychannel/index.m3u8 -c:v copy -c:a copy \
+-f flv <span class="hljs-string">"rtmp://anotherhost:1935/live/channel"</span>
+</code></pre>
+<h2 id="-documentation">📄 Documentation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-documentation" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li><a href="https://github.com/arut/nginx-rtmp-module/wiki/Directives#hls_sync">NGINX RTMP Module Directives</a></li>
+<li><a href="https://github.com/tiangolo/nginx-rtmp-docker/blob/master/Dockerfile">Tiangolo’s NGINX RTMP Docker</a></li>
+</ul>
+<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>The NGINX RTMP Module is a game-changer for live streaming, offering a powerful and flexible solution. Coupled with tools like FFmpeg, you can achieve professional-grade streaming setups with <strong>minimal effort</strong>. Start building your live streaming platform today!</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$f","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"websocket-to-ffmpeg-streaming","slug":"websocket-to-ffmpeg-streaming","title":"WebSocket to FFMPEG Streaming","excerpt":"Seamlessly Forwarding Live Streams to RTMP Channels.","content":"$10","image":"/images/articles/websocket-to-ffmpeg-streaming.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":2},{"id":"mediamtx-for-webrtc-streaming","slug":"mediamtx-for-webrtc-streaming","title":"MediaMTX for WebRTC Streaming","excerpt":"Unleashing the Power of WebRTC with Go's MediaMTX.","content":"$11","image":"/images/articles/mediamtx.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"nginx-rtmp-module","slug":"nginx-rtmp-module","title":"NGINX RTMP Module","excerpt":"Unleashing the Power of NGINX RTMP Module for Media Streaming. ","content":"$12","image":"/images/articles/nginx-rtmp-module2.png","published_at":"2024-10-01T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":4}]}],["$","$L13",null,{"currentPage":1,"totalPages":1,"baseUrl":"/articles"}]]}]]}]
