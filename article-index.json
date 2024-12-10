@@ -12,6 +12,10 @@
     "slug": "nginx-rtmp-module"
   },
   {
+    "title": "Implementing a Redis-Powered Cache Middleware in Strapi",
+    "slug": "strapi-middleware-cache"
+  },
+  {
     "title": "WebSocket to FFMPEG Streaming",
     "slug": "websocket-to-ffmpeg-streaming"
   }
