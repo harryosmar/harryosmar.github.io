@@ -7,13 +7,313 @@
 9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
 a:{"display":"inline-block"}
 b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
-0:["PlR9C5cXL2EyhtO2H0Ffg",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
+0:["vVQ385s34AjXGKq4sfSim",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
 c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Articles | Harry Osmar Sitohang"}],["$","meta","3",{"name":"description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Articles"}],["$","meta","6",{"property":"og:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","7",{"property":"og:url","content":"https://www.harryosmarsitohang.com/articles/page/1"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Articles"}],["$","meta","11",{"name":"twitter:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","13",{"name":"next-size-adjust"}]]
 1:null
-d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-4df37524aaef99fa.js"],"LastVisitedPageHandler"]
-e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-4df37524aaef99fa.js"],"default"]
-14:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-4df37524aaef99fa.js"],"Pagination"]
-f:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
+d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"LastVisitedPageHandler"]
+e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"default"]
+14:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"Pagination"]
+f:T6670,<h2 id="-ollama-introduction">🦙 Ollama introduction<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-ollama-introduction" class="anchor" aria-hidden="true">#</a></span></h2>
+<p><a href="https://ollama.com/">Ollama</a> is a powerful platform designed to make it easy for developers <strong>to run large language models (LLMs) directly on their local computers</strong>, without needing a <del>big server</del> or expensive hardware like <del>high-end GPUs</del>.</p>
+<p>With <a href="https://ollama.com/">Ollama</a>, you can get up and running with models such as <code>Llama 3.3</code>, <code>Phi 3</code>, <code>Mistral</code>, <code>Gemma 2</code>, and more, all <del>without the need for specialized cloud infrastructure</del>.</p>
+<p>In short, <a href="https://ollama.com/">Ollama</a> democratizes access to cutting-edge <code>AI models</code>, making them <strong>accessible on personal computers</strong> and empowering developers to build AI solutions without the burden of <del>expensive server infrastructure</del>.</p>
+<h2 id="-why-use-json-schema-constraints-in-ollama">🔑 Why Use JSON Schema Constraints in Ollama?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-use-json-schema-constraints-in-ollama" class="anchor" aria-hidden="true">#</a></span></h2>
+<p><a href="https://ollama.com/">Ollama</a> now supports to constrain the output to a json
+schema. <a href="https://ollama.com/blog/structured-outputs">https://ollama.com/blog/structured-outputs</a></p>
+<p>Use cases for structured outputs include:</p>
+<ul>
+<li>Parsing data from documents</li>
+<li>Extracting data from images</li>
+<li>Structuring all language model responses</li>
+<li>More reliability and consistency than JSON mode</li>
+</ul>
+<h2 id="-getting-started">🚀 Getting Started<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-getting-started" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="1-install-ollama">1. Install Ollama<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-install-ollama" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Download <a href="https://ollama.com/">Ollama</a> from <a href="https://ollama.com/download">https://ollama.com/download</a>. Choose the appropriate version for your
+platform and complete the installation.</p>
+<h3 id="2-verify-installation">2. Verify Installation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-verify-installation" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>After installation, confirm the version by running:</p>
+<pre><code class="hljs language-shell">ollama --version
+</code></pre>
+<p>expected output format:</p>
+<pre><code class="hljs language-shell">ollama version is 0.5.1
+</code></pre>
+<h3 id="3-start-ollama-server">3. Start Ollama Server<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-start-ollama-server" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Run the following command to start the server:</p>
+<pre><code class="hljs language-shell">ollama serve
+</code></pre>
+<p>By default, the server runs on port 11434. You can verify this by
+visiting <a href="http://localhost:11434">http://localhost:11434</a>.</p>
+<h3 id="4-download-the-ollama-model">4. Download the Ollama Model<span class="ml-2 opacity-0 hover:opacity-100"><a href="#4-download-the-ollama-model" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>I recommend the <code>llama3.2</code> model for its compact size (<code>2.0 GB</code>) and impressive performance.</p>
+<p>It features <code>3 billion</code> parameters and <strong>outperforms</strong> many larger models in industry benchmarks.</p>
+<p>Download the model with:</p>
+<pre><code class="hljs language-shell">ollama run llama3.2
+</code></pre>
+<p>Verify the download:</p>
+<pre><code class="hljs language-shell">ollama list
+</code></pre>
+<p>Expected output:</p>
+<pre><code class="hljs language-shell">NAME                       ID              SIZE      MODIFIED        
+llama3.2:latest            a80c4f17acd5    2.0 GB    n weeks ago
+</code></pre>
+<h2 id="️-run-using-curl">▶️ Run using CURL<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-run-using-curl" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Run using curl directly to <a href="https://ollama.com/">Ollama</a> server <a href="http://localhost:11434">http://localhost:11434</a>.</p>
+<p>There is no need to code, there is no setup, no need to install anything (*make sure you have curl installed).</p>
+<h3 id="use-case-1-extract-country-data">Use Case 1: Extract Country Data<span class="ml-2 opacity-0 hover:opacity-100"><a href="#use-case-1-extract-country-data" class="anchor" aria-hidden="true">#</a></span></h3>
+<blockquote>
+<p>Input Prompt: "Tell me about Canada."</p>
+</blockquote>
+<h4 id="schema">Schema</h4>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"object"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"properties"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"string"</span>
+    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"capital"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"string"</span>
+    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"languages"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"array"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"items"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"string"</span>
+      <span class="hljs-punctuation">}</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"required"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+    <span class="hljs-string">"name"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-string">"capital"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-string">"languages"</span>
+  <span class="hljs-punctuation">]</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<h4 id="curl-request">Curl Request</h4>
+<p>json schema above included in the request in field <code>format</code>.</p>
+<p>Run the following command in the terminal:</p>
+<pre><code class="hljs language-bash">curl --location <span class="hljs-string">'http://127.0.0.1:11434/api/chat'</span> \
+--header <span class="hljs-string">'Content-Type: application/json'</span> \
+--data <span class="hljs-string">'{
+  "model": "llama3.2",
+  "messages": [{"role": "user", "content": "Tell me about Canada."}],
+  "stream": false,
+  "format": {
+    "type": "object",
+    "properties": {
+      "name": { "type": "string" },
+      "capital": { "type": "string" },
+      "languages": { "type": "array", "items": { "type": "string" } }
+    },
+    "required": ["name", "capital", "languages"]
+  }
+}'</span>
+</code></pre>
+<h4 id="response">Response</h4>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"model"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"llama3.2"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"created_at"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"2024-12-12T07:47:22.184905Z"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"message"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"role"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"assistant"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"content"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"{ \"capital\": \"Ottawa\", \"languages\": [\"English\", \"French\"], \"name\":\"Canada\" }"</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"done_reason"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"stop"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"done"</span><span class="hljs-punctuation">:</span> <span class="hljs-literal"><span class="hljs-keyword">true</span></span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"total_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1232600000</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"load_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">33616458</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"prompt_eval_count"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">30</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"prompt_eval_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">495000000</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"eval_count"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">29</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"eval_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">700000000</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<p>see field <code>message.content</code> using the same json schema as above</p>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"capital"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"Ottawa"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"languages"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+    <span class="hljs-string">"English"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-string">"French"</span>
+  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"Canada"</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<h3 id="use-case-2-extract-pets-data">Use Case 2: Extract Pets Data<span class="ml-2 opacity-0 hover:opacity-100"><a href="#use-case-2-extract-pets-data" class="anchor" aria-hidden="true">#</a></span></h3>
+<blockquote>
+<p>Prompt: "I have two pets. A cat named Luna who is 5 years old and loves playing with yarn. She has grey fur. I also have a 2-year-old black cat named Loki who loves tennis balls."</p>
+</blockquote>
+<h4 id="schema-1">Schema</h4>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"$defs"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"Pet"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"properties"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">"age"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"integer"</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">"animal"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"string"</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">"color"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">"anyOf"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+            <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">"const"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"black"</span>
+            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+            <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">"const"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"grey"</span>
+            <span class="hljs-punctuation">}</span>
+          <span class="hljs-punctuation">]</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">"favorite_toy"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">"anyOf"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+            <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">"const"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"yarn"</span>
+            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+            <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">"const"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"tennis balls"</span>
+            <span class="hljs-punctuation">}</span>
+          <span class="hljs-punctuation">]</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"string"</span>
+        <span class="hljs-punctuation">}</span>
+      <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"required"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+        <span class="hljs-string">"name"</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-string">"animal"</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-string">"age"</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-string">"color"</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-string">"favorite_toy"</span>
+      <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"object"</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"properties"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"pets"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"array"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"items"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">"$ref"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"#/$defs/Pet"</span>
+      <span class="hljs-punctuation">}</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"required"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+    <span class="hljs-string">"pets"</span>
+  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"object"</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<h4 id="curl-request-1">Curl Request</h4>
+<pre><code class="hljs language-bash">curl --location <span class="hljs-string">'http://127.0.0.1:11434/api/chat'</span> \
+--header <span class="hljs-string">'Content-Type: application/json'</span> \
+--data <span class="hljs-string">'{
+  "model": "llama3.2",
+  "messages": [{
+    "role": "user",
+    "content": "I have two pets. A cat named Luna who is 5 years old and loves playing with yarn. She has grey fur. I also have a 2-year-old black cat named Loki who loves tennis balls."
+  }],
+  "stream": false,
+  "format": {
+    "$defs": {
+      "Pet": {
+        "properties": {
+          "age": { "type": "integer" },
+          "animal": { "type": "string" },
+          "color": { "anyOf": [
+            { "const": "black" },
+            { "const": "grey" }
+          ] },
+          "favorite_toy": { "anyOf": [
+            { "const": "yarn" },
+            { "const": "tennis balls" }
+          ] },
+          "name": { "type": "string" }
+        },
+        "required": ["name", "animal", "age", "color", "favorite_toy"],
+        "type": "object"
+      }
+    },
+    "properties": {
+      "pets": {
+        "type": "array",
+        "items": { "$ref": "#/$defs/Pet" }
+      }
+    },
+    "required": ["pets"],
+    "type": "object"
+  }
+}'</span>
+</code></pre>
+<h4 id="response-1">Response</h4>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"model"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"llama3.2"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"created_at"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"2024-12-12T08:32:37.316804Z"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"message"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">"role"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"assistant"</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">"content"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"{ \"pets\": [ { \"age\": 5, \"animal\": \"cat\", \"color\": \"grey\", \"favorite_toy\": \"yarn\" , \"name\": \"Luna\"}, { \"age\": 2, \"animal\": \"cat\", \"color\": \"black\", \"favorite_toy\": \"tennis balls\" , \"name\": \"Loki\"}] }"</span>
+    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"done_reason"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"stop"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"done"</span><span class="hljs-punctuation">:</span> <span class="hljs-literal"><span class="hljs-keyword">true</span></span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"total_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">7159731958</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"load_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">829545916</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"prompt_eval_count"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">68</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"prompt_eval_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">4620000000</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"eval_count"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">82</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"eval_duration"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1697000000</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<p>see field <code>message.content</code> using the same json schema as above</p>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"pets"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+    <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"age"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">5</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"animal"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"cat"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"color"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"grey"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"favorite_toy"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"yarn"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"Luna"</span>
+    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">"age"</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"animal"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"cat"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"color"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"black"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"favorite_toy"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"tennis balls"</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"Loki"</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">]</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<h2 id="️-run-using-demo-python-api">▶️ Run using demo python api<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-run-using-demo-python-api" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Recommend to use python 3.10.* with venv</p>
+<h3 id="1-create-venv">1. Create venv<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-create-venv" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Clone this repository</p>
+<pre><code class="hljs language-shell">git clone https://github.com/harryosmar/ollama-demo-python.git
+</code></pre>
+<p>Run the following command in the terminal:</p>
+<pre><code class="hljs language-shell">cd ollama-demo-python
+
+python3 -m venv venv
+</code></pre>
+<h3 id="2-activate-venv">2. Activate venv<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-activate-venv" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Run the following command in the terminal:</p>
+<pre><code class="hljs language-shell">source ./venv/bin/activate
+</code></pre>
+<h3 id="3-install-requirements">3. Install requirements<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-install-requirements" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Run the following command in the terminal:</p>
+<pre><code class="hljs language-shell">pip install -r requirements.txt
+</code></pre>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/2.3.x/">Flask</a> used as api framework</li>
+<li><a href="https://pydantic-docs.helpmanual.io/">pydantic</a> used for data validation, create json schema from python class</li>
+</ul>
+<h3 id="4-run-app">4. Run app<span class="ml-2 opacity-0 hover:opacity-100"><a href="#4-run-app" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Run the following command in the terminal:</p>
+<pre><code class="hljs language-shell">flask --app main run
+</code></pre>
+<p>Start api server in <a href="http://127.0.0.1:5000">http://127.0.0.1:5000</a></p>
+<h3 id="5-swagger-endpoints">5. Swagger endpoints<span class="ml-2 opacity-0 hover:opacity-100"><a href="#5-swagger-endpoints" class="anchor" aria-hidden="true">#</a></span></h3>
+<p><a href="http://127.0.0.1:5000/apidocs/">swagger access link http://127.0.0.1:5000/apidocs/</a></p>
+<h2 id="-conclusion">🔥 Conclusion<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-conclusion" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>By leveraging JSON schema constraints, <a href="https://ollama.com/">Ollama</a> ensures structured, reliable, and predictable outputs from LLMs. Whether you’re parsing documents, analyzing images, or building robust APIs, this feature delivers the consistency and accuracy you need.</p>
+<h2 id="-credits">🏅 Credits<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-credits" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Give credits to <strong>Matt Williams</strong> with his <a href="https://www.youtube.com/@technovangelist">https://www.youtube.com/@technovangelist</a></p>
+<p>He was part of the <strong>founding</strong> <a href="https://ollama.com/">Ollama</a> team. Don't forget to check out &#x26; subscribe to his channel, help him to reach 1 million subscribers.</p>
+<p>I learned a lot from his videos, thank you Matt, hats off to you! 👏</p>10:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
 <h2 id="requirements">Requirements<span class="ml-2 opacity-0 hover:opacity-100"><a href="#requirements" class="anchor" aria-hidden="true">#</a></span></h2>
 <pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
   <span class="hljs-attr">"dependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
@@ -170,7 +470,7 @@ export CACHE_TIMEOUT=1000
 </ul>
 <h2 id="-conclusion">🚀 Conclusion<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-conclusion" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Adding a Redis-powered cache middleware to Strapi can drastically improve performance, scalability, and user experience. By following this guide, you’ll have a flexible caching solution ready to handle high traffic while keeping your application responsive.</p>
-<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>10:T153e,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
+<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>11:T153e,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
 <p>Explore the demo: <a href="https://github.com/harryosmar/react-ffmpeg-wasm">FFMPEG WASM Demo Project</a>.</p>
 <img src="/images/mermaid/mermaid-41ceb72b91dfdd270008de8b93556b78.svg" alt="Mermaid diagram">
 <h2 id="-why-use-ffmpeg-wasm">🚀 Why Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
@@ -229,7 +529,7 @@ export CACHE_TIMEOUT=1000
 <li><a href="https://webreflection.medium.com/about-sharedarraybuffer-atomics-87f97ddfc098">About SharedArrayBuffer &#x26; Atomics</a>.</li>
 <li><a href="https://ffmpegwasm.netlify.app/">FFMPEG WASM Official Website</a>.</li>
 </ul>
-<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>11:Tc6d,<p>Streaming technologies are evolving to accommodate real-time content delivery with minimal latency. A particularly innovative approach involves <strong>combining WebSockets with FFMPEG</strong> to enable client-side streams to be processed and <strong>forwarded to RTMP channels</strong>. This article will explore the concept, its setup, and the pros and cons of this technique.</p>
+<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>12:Tc6d,<p>Streaming technologies are evolving to accommodate real-time content delivery with minimal latency. A particularly innovative approach involves <strong>combining WebSockets with FFMPEG</strong> to enable client-side streams to be processed and <strong>forwarded to RTMP channels</strong>. This article will explore the concept, its setup, and the pros and cons of this technique.</p>
 <p>Explore the Code:</p>
 <p>GitHub Repository: <a href="https://github.com/chuabingquan/pxy">chuabingquan/pxy 🎥 Proxy livestreams from WebSockets to RTMP</a>.</p>
 <h2 id="-how-it-works">🚀 How It Works<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-how-it-works" class="anchor" aria-hidden="true">#</a></span></h2>
@@ -257,7 +557,7 @@ ffmpeg -i - -vcodec copy -f flv -loglevel debug rtmp://localhost:1936/live/demo4
 </ul>
 <h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Integrating <strong>WebSockets and FFmpeg for live streaming</strong> is an effective way to bridge browser-based video sources and RTMP endpoints.</p>
-<p>Start streaming today and unlock new possibilities for browser-based live broadcasting!</p>12:T169e,<p>WebRTC (Web Real-Time Communication) is a powerful and versatile protocol that enables <strong>real-time</strong> communication, video streaming, and file sharing between browsers. If you're looking for a reliable and flexible solution for <strong>live streaming and video playback</strong>, look no further than <strong>MediaMTX</strong>, a Go-based media server that supports multiple streaming protocols including <strong>WebRTC</strong>, <strong>RTMP</strong>, <strong>SRT</strong>, and more.</p>
+<p>Start streaming today and unlock new possibilities for browser-based live broadcasting!</p>13:T169e,<p>WebRTC (Web Real-Time Communication) is a powerful and versatile protocol that enables <strong>real-time</strong> communication, video streaming, and file sharing between browsers. If you're looking for a reliable and flexible solution for <strong>live streaming and video playback</strong>, look no further than <strong>MediaMTX</strong>, a Go-based media server that supports multiple streaming protocols including <strong>WebRTC</strong>, <strong>RTMP</strong>, <strong>SRT</strong>, and more.</p>
 <p>Explore the Code:</p>
 <p>GitHub Repository: <a href="https://github.com/bluenviron/mediamtx">mediamtx Webrtc</a>.</p>
 <h2 id="-why-choose-mediamtx-for-webrtc-streaming">🚀 Why Choose MediaMTX for WebRTC Streaming?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-mediamtx-for-webrtc-streaming" class="anchor" aria-hidden="true">#</a></span></h2>
@@ -309,118 +609,4 @@ go run main.go
 </ul>
 <h2 id="-final-thoughts">🎯 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>MediaMTX is a powerful, ready-to-use solution for real-time video streaming using WebRTC and other protocols. Its versatility and ease of setup make it an excellent choice for developers looking to implement live streaming with minimal hassle. Whether you need WebRTC for low-latency streaming or HLS for broader device compatibility, MediaMTX has got you covered.</p>
-<p>Start building your WebRTC-based streaming solution today and take your media projects to the next level!</p>13:T2de4,<p>The NGINX RTMP Module is a robust, NGINX-based media streaming server that simplifies live video streaming and playback. Designed for high performance, it supports RTMP and HLS protocols, making it a go-to solution for live streaming applications.</p>
-<p>Explore the demo: <a href="">Nginx RTMP module DEMO</a>.</p>
-<img src="/images/mermaid/mermaid-7440292164595184b408fc81e80dbc7a.svg" alt="Mermaid diagram">
-<h2 id="-why-choose-nginx-rtmp-module">🚀 Why Choose NGINX RTMP Module?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-nginx-rtmp-module" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>Streamlined Setup: Integrate live streaming directly into your existing NGINX server setup with <strong>minimal configuration</strong>.</li>
-<li><strong>HLS Playback Support</strong>: Deliver your live streams with HLS for seamless playback across modern devices.</li>
-<li>Adaptability: Extend functionality using external tools like <strong>FFmpeg</strong> for tasks such as <strong>transcoding</strong> or overlay processing.</li>
-<li>Load Balancer Integration: Combine RTMP streaming with NGINX’s load balancing for efficient delivery at <strong>scale</strong>.</li>
-</ul>
-<h2 id="️-how-to-stream-with-ffmpeg-on-macos">🛠️ How to Stream with FFmpeg on macOS<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-how-to-stream-with-ffmpeg-on-macos" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>Test your streaming setup by capturing video and audio input from your macOS camera and microphone using FFmpeg:</p>
-<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
--c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
--c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
--f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel3'</span>
-</code></pre>
-<p>In this example:</p>
-<ul>
-<li>Video &#x26; Audio Input: Captures from camera and microphone.</li>
-<li>Video Encoding: Uses <code>libx264</code> codec with 4000k bitrate.</li>
-<li>Audio Processing: Applies an equalizer filter and loudness normalization.</li>
-<li>Output Format: Streams to the RTMP endpoint.</li>
-</ul>
-<h2 id="-enable-hls-playback">📺 Enable HLS Playback<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-enable-hls-playback" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>HLS playback allows you to stream live video in a format compatible with modern browsers and devices. Use HLS playback scripts to test your setup.</p>
-<p>HLS playback script:</p>
-<pre><code class="hljs language-html"><span class="hljs-meta">&#x3C;!DOCTYPE <span class="hljs-keyword">html</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">head</span>></span>
-    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"UTF-8"</span>></span>
-    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"viewport"</span> <span class="hljs-attr">content</span>=<span class="hljs-string">"width=device-width, initial-scale=1.0"</span>></span>
-    <span class="hljs-tag">&#x3C;<span class="hljs-name">title</span>></span>HLS Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">title</span>></span>
-    <span class="hljs-tag">&#x3C;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/npm/hls.js@latest"</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
-    <span class="hljs-tag">&#x3C;<span class="hljs-name">style</span>></span><span class="css">
-        <span class="hljs-selector-tag">body</span> {
-            <span class="hljs-attribute">display</span>: flex;
-            <span class="hljs-attribute">justify-content</span>: center;
-            <span class="hljs-attribute">align-items</span>: center;
-            <span class="hljs-attribute">height</span>: <span class="hljs-number">100vh</span>;
-            <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#f0f0f0</span>;
-        }
-        <span class="hljs-selector-tag">video</span> {
-            <span class="hljs-attribute">max-width</span>: <span class="hljs-number">100%</span>;
-            <span class="hljs-attribute">width</span>: <span class="hljs-number">800px</span>; <span class="hljs-comment">/* Set a width for the video */</span>
-        }
-    </span><span class="hljs-tag">&#x3C;/<span class="hljs-name">style</span>></span>
-<span class="hljs-tag">&#x3C;/<span class="hljs-name">head</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>HLS Live Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">video</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"video"</span> <span class="hljs-attr">controls</span> <span class="hljs-attr">autoplay</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">video</span>></span>
-<span class="hljs-tag">&#x3C;<span class="hljs-name">script</span>></span><span class="javascript">
-    <span class="hljs-keyword">var</span> video = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">'video'</span>);
-    <span class="hljs-keyword">var</span> videoSrc = <span class="hljs-string">'http://localhost/hls/mystream/index.m3u8'</span>;
-
-    <span class="hljs-keyword">if</span> (<span class="hljs-title class_">Hls</span>.<span class="hljs-title function_">isSupported</span>()) {
-        <span class="hljs-keyword">var</span> index = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Hls</span>();
-        index.<span class="hljs-title function_">loadSource</span>(videoSrc);
-        index.<span class="hljs-title function_">attachMedia</span>(video);
-        index.<span class="hljs-title function_">on</span>(<span class="hljs-title class_">Hls</span>.<span class="hljs-property">Events</span>.<span class="hljs-property">MANIFEST_PARSED</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
-            video.<span class="hljs-title function_">play</span>();
-        });
-    } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (video.<span class="hljs-title function_">canPlayType</span>(<span class="hljs-string">'application/vnd.apple.mpegurl'</span>)) {
-        video.<span class="hljs-property">src</span> = videoSrc; <span class="hljs-comment">// Fallback for Safari</span>
-        video.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'loadedmetadata'</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
-            video.<span class="hljs-title function_">play</span>();
-        });
-    }
-</span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
-<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
-<span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span>
-</code></pre>
-<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>Ease of Use: Quickly set up live streaming with minimal configuration.</li>
-<li>Flexible: Extend functionality by <strong>running executable</strong> files, such as FFmpeg, to enable additional features like transcoding or watermarking.</li>
-<li>Seamless Device Support: Combine RTMP input with HLS output for universal playback.</li>
-</ul>
-<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>Limited Scripting Capability: The RTMP module itself has limited scripting options, but this can be <strong>mitigated</strong> by integrating external tools like <strong>FFmpeg</strong>.</li>
-</ul>
-<h2 id="-get-started-now">🎯 Get Started Now<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-get-started-now" class="anchor" aria-hidden="true">#</a></span></h2>
-<h3 id="1-clone-the-repository">1. Clone the repository:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-clone-the-repository" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>Clone the demo project and build the Docker image:</p>
-<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/harryosmar/nginx-rtmp
-<span class="hljs-built_in">cd</span> nginx-rtmp
-docker build -t my-nginx-rtmp:v1 .
-</code></pre>
-<p>Run the Docker container with the required configuration:</p>
-<pre><code class="hljs language-bash">docker <span class="hljs-built_in">rm</span> -f nginx-rtmp &#x26;&#x26; docker run -d --name nginx-rtmp \
--p 1935:1935 -p 80:80 -p 9001:9001 \
--v $(<span class="hljs-built_in">pwd</span>)/nginx.conf:/etc/nginx/nginx.conf \
--v $(<span class="hljs-built_in">pwd</span>)/tmp/hls:/tmp/hls \
--v $(<span class="hljs-built_in">pwd</span>)/var/log:/var/log/nginx \
-my-nginx-rtmp:v1
-</code></pre>
-<h3 id="2-stream-with-ffmpeg-from-camera-and-microphone">2. Stream with FFmpeg from Camera and Microphone<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-stream-with-ffmpeg-from-camera-and-microphone" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>Stream live video and audio to the RTMP server:</p>
-<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
--c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
--c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
--f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel'</span>
-</code></pre>
-<h3 id="3-republish-stream-from-hls-to-oss-rtmp">3. Republish Stream from HLS to OSS RTMP<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-republish-stream-from-hls-to-oss-rtmp" class="anchor" aria-hidden="true">#</a></span></h3>
-<pre><code class="hljs language-bash">ffmpeg -i http://localhost/hls/mychannel/index.m3u8 -c:v copy -c:a copy \
--f flv <span class="hljs-string">"rtmp://anotherhost:1935/live/channel"</span>
-</code></pre>
-<h2 id="-documentation">📄 Documentation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-documentation" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li><a href="https://github.com/arut/nginx-rtmp-module/wiki/Directives#hls_sync">NGINX RTMP Module Directives</a></li>
-<li><a href="https://github.com/tiangolo/nginx-rtmp-docker/blob/master/Dockerfile">Tiangolo’s NGINX RTMP Docker</a></li>
-</ul>
-<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>The NGINX RTMP Module is a game-changer for live streaming, offering a powerful and flexible solution. Coupled with tools like FFmpeg, you can achieve professional-grade streaming setups with <strong>minimal effort</strong>. Start building your live streaming platform today!</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$f","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$10","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"websocket-to-ffmpeg-streaming","slug":"websocket-to-ffmpeg-streaming","title":"WebSocket to FFMPEG Streaming","excerpt":"Seamlessly Forwarding Live Streams to RTMP Channels.","content":"$11","image":"/images/articles/websocket-to-ffmpeg-streaming.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":2},{"id":"mediamtx-for-webrtc-streaming","slug":"mediamtx-for-webrtc-streaming","title":"MediaMTX for WebRTC Streaming","excerpt":"Unleashing the Power of WebRTC with Go's MediaMTX.","content":"$12","image":"/images/articles/mediamtx.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"nginx-rtmp-module","slug":"nginx-rtmp-module","title":"NGINX RTMP Module","excerpt":"Unleashing the Power of NGINX RTMP Module for Media Streaming. ","content":"$13","image":"/images/articles/nginx-rtmp-module2.png","published_at":"2024-10-01T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":4}]}],["$","$L14",null,{"currentPage":1,"totalPages":1,"baseUrl":"/articles"}]]}]]}]
+<p>Start building your WebRTC-based streaming solution today and take your media projects to the next level!</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"ai-ollama-structured-output","slug":"ai-ollama-structured-output","title":"Unlocking the Power of AI: Ollama LLM with Structured Output","excerpt":"JSON schema in Ollama 🦙, revolutionizes the way we handle data extraction, response structuring, and consistency","content":"$f","image":"/images/articles/ai-ollama-structured-output.webp","published_at":"2024-12-12T22:53:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$10","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$11","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"websocket-to-ffmpeg-streaming","slug":"websocket-to-ffmpeg-streaming","title":"WebSocket to FFMPEG Streaming","excerpt":"Seamlessly Forwarding Live Streams to RTMP Channels.","content":"$12","image":"/images/articles/websocket-to-ffmpeg-streaming.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":2},{"id":"mediamtx-for-webrtc-streaming","slug":"mediamtx-for-webrtc-streaming","title":"MediaMTX for WebRTC Streaming","excerpt":"Unleashing the Power of WebRTC with Go's MediaMTX.","content":"$13","image":"/images/articles/mediamtx.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3}]}],["$","$L14",null,{"currentPage":1,"totalPages":2,"baseUrl":"/articles"}]]}]]}]

@@ -1,0 +1,130 @@
+3:I[6702,[],""]
+5:I[8097,[],""]
+6:I[4865,["513","static/chunks/513-54c786173a9c666c.js","122","static/chunks/122-1e2541ae7fd00b15.js","948","static/chunks/app/(content)/layout-98a57fd1c16e634e.js"],"NavTabs"]
+7:I[4387,["185","static/chunks/app/layout-dc2409b386032b48.js"],"ThemeProvider"]
+4:["page","2","d"]
+8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+a:{"display":"inline-block"}
+b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["vVQ385s34AjXGKq4sfSim",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","2","d"],{"children":["__PAGE__?{\"page\":\"2\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","2","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Articles - Page 2 | Harry Osmar Sitohang"}],["$","meta","3",{"name":"description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Articles - Page 2"}],["$","meta","6",{"property":"og:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","7",{"property":"og:url","content":"https://www.harryosmarsitohang.com/articles/page/2"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Articles - Page 2"}],["$","meta","11",{"name":"twitter:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","13",{"name":"next-size-adjust"}]]
+1:null
+d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"LastVisitedPageHandler"]
+e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"default"]
+10:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-9ca8205aa41ba446.js"],"Pagination"]
+f:T2de4,<p>The NGINX RTMP Module is a robust, NGINX-based media streaming server that simplifies live video streaming and playback. Designed for high performance, it supports RTMP and HLS protocols, making it a go-to solution for live streaming applications.</p>
+<p>Explore the demo: <a href="">Nginx RTMP module DEMO</a>.</p>
+<img src="/images/mermaid/mermaid-7440292164595184b408fc81e80dbc7a.svg" alt="Mermaid diagram">
+<h2 id="-why-choose-nginx-rtmp-module">🚀 Why Choose NGINX RTMP Module?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-choose-nginx-rtmp-module" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Streamlined Setup: Integrate live streaming directly into your existing NGINX server setup with <strong>minimal configuration</strong>.</li>
+<li><strong>HLS Playback Support</strong>: Deliver your live streams with HLS for seamless playback across modern devices.</li>
+<li>Adaptability: Extend functionality using external tools like <strong>FFmpeg</strong> for tasks such as <strong>transcoding</strong> or overlay processing.</li>
+<li>Load Balancer Integration: Combine RTMP streaming with NGINX’s load balancing for efficient delivery at <strong>scale</strong>.</li>
+</ul>
+<h2 id="️-how-to-stream-with-ffmpeg-on-macos">🛠️ How to Stream with FFmpeg on macOS<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-how-to-stream-with-ffmpeg-on-macos" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Test your streaming setup by capturing video and audio input from your macOS camera and microphone using FFmpeg:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel3'</span>
+</code></pre>
+<p>In this example:</p>
+<ul>
+<li>Video &#x26; Audio Input: Captures from camera and microphone.</li>
+<li>Video Encoding: Uses <code>libx264</code> codec with 4000k bitrate.</li>
+<li>Audio Processing: Applies an equalizer filter and loudness normalization.</li>
+<li>Output Format: Streams to the RTMP endpoint.</li>
+</ul>
+<h2 id="-enable-hls-playback">📺 Enable HLS Playback<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-enable-hls-playback" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>HLS playback allows you to stream live video in a format compatible with modern browsers and devices. Use HLS playback scripts to test your setup.</p>
+<p>HLS playback script:</p>
+<pre><code class="hljs language-html"><span class="hljs-meta">&#x3C;!DOCTYPE <span class="hljs-keyword">html</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">head</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"UTF-8"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"viewport"</span> <span class="hljs-attr">content</span>=<span class="hljs-string">"width=device-width, initial-scale=1.0"</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">title</span>></span>HLS Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">title</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/npm/hls.js@latest"</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">style</span>></span><span class="css">
+        <span class="hljs-selector-tag">body</span> {
+            <span class="hljs-attribute">display</span>: flex;
+            <span class="hljs-attribute">justify-content</span>: center;
+            <span class="hljs-attribute">align-items</span>: center;
+            <span class="hljs-attribute">height</span>: <span class="hljs-number">100vh</span>;
+            <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#f0f0f0</span>;
+        }
+        <span class="hljs-selector-tag">video</span> {
+            <span class="hljs-attribute">max-width</span>: <span class="hljs-number">100%</span>;
+            <span class="hljs-attribute">width</span>: <span class="hljs-number">800px</span>; <span class="hljs-comment">/* Set a width for the video */</span>
+        }
+    </span><span class="hljs-tag">&#x3C;/<span class="hljs-name">style</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">head</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>HLS Live Stream<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">video</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"video"</span> <span class="hljs-attr">controls</span> <span class="hljs-attr">autoplay</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">video</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">script</span>></span><span class="javascript">
+    <span class="hljs-keyword">var</span> video = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">'video'</span>);
+    <span class="hljs-keyword">var</span> videoSrc = <span class="hljs-string">'http://localhost/hls/mystream/index.m3u8'</span>;
+
+    <span class="hljs-keyword">if</span> (<span class="hljs-title class_">Hls</span>.<span class="hljs-title function_">isSupported</span>()) {
+        <span class="hljs-keyword">var</span> index = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Hls</span>();
+        index.<span class="hljs-title function_">loadSource</span>(videoSrc);
+        index.<span class="hljs-title function_">attachMedia</span>(video);
+        index.<span class="hljs-title function_">on</span>(<span class="hljs-title class_">Hls</span>.<span class="hljs-property">Events</span>.<span class="hljs-property">MANIFEST_PARSED</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (video.<span class="hljs-title function_">canPlayType</span>(<span class="hljs-string">'application/vnd.apple.mpegurl'</span>)) {
+        video.<span class="hljs-property">src</span> = videoSrc; <span class="hljs-comment">// Fallback for Safari</span>
+        video.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'loadedmetadata'</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) {
+            video.<span class="hljs-title function_">play</span>();
+        });
+    }
+</span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span>
+</code></pre>
+<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Ease of Use: Quickly set up live streaming with minimal configuration.</li>
+<li>Flexible: Extend functionality by <strong>running executable</strong> files, such as FFmpeg, to enable additional features like transcoding or watermarking.</li>
+<li>Seamless Device Support: Combine RTMP input with HLS output for universal playback.</li>
+</ul>
+<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li>Limited Scripting Capability: The RTMP module itself has limited scripting options, but this can be <strong>mitigated</strong> by integrating external tools like <strong>FFmpeg</strong>.</li>
+</ul>
+<h2 id="-get-started-now">🎯 Get Started Now<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-get-started-now" class="anchor" aria-hidden="true">#</a></span></h2>
+<h3 id="1-clone-the-repository">1. Clone the repository:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-clone-the-repository" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Clone the demo project and build the Docker image:</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/harryosmar/nginx-rtmp
+<span class="hljs-built_in">cd</span> nginx-rtmp
+docker build -t my-nginx-rtmp:v1 .
+</code></pre>
+<p>Run the Docker container with the required configuration:</p>
+<pre><code class="hljs language-bash">docker <span class="hljs-built_in">rm</span> -f nginx-rtmp &#x26;&#x26; docker run -d --name nginx-rtmp \
+-p 1935:1935 -p 80:80 -p 9001:9001 \
+-v $(<span class="hljs-built_in">pwd</span>)/nginx.conf:/etc/nginx/nginx.conf \
+-v $(<span class="hljs-built_in">pwd</span>)/tmp/hls:/tmp/hls \
+-v $(<span class="hljs-built_in">pwd</span>)/var/log:/var/log/nginx \
+my-nginx-rtmp:v1
+</code></pre>
+<h3 id="2-stream-with-ffmpeg-from-camera-and-microphone">2. Stream with FFmpeg from Camera and Microphone<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-stream-with-ffmpeg-from-camera-and-microphone" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Stream live video and audio to the RTMP server:</p>
+<pre><code class="hljs language-bash">ffmpeg -re -f avfoundation -framerate 30 -video_size 640x480 -i <span class="hljs-string">"0"</span> -f avfoundation -i <span class="hljs-string">":0"</span> \
+-c:v libx264 -vf format=uyvy422 -b:v 4000k -bufsize 8000k -maxrate 4000k -g 30 \
+-c:a aac -b:a 192k -ar 48000 -af <span class="hljs-string">"equalizer=f=1000:t=q:w=1:g=5,loudnorm"</span> \
+-f flv <span class="hljs-string">'rtmp://localhost:1935/live/mychannel'</span>
+</code></pre>
+<h3 id="3-republish-stream-from-hls-to-oss-rtmp">3. Republish Stream from HLS to OSS RTMP<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-republish-stream-from-hls-to-oss-rtmp" class="anchor" aria-hidden="true">#</a></span></h3>
+<pre><code class="hljs language-bash">ffmpeg -i http://localhost/hls/mychannel/index.m3u8 -c:v copy -c:a copy \
+-f flv <span class="hljs-string">"rtmp://anotherhost:1935/live/channel"</span>
+</code></pre>
+<h2 id="-documentation">📄 Documentation<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-documentation" class="anchor" aria-hidden="true">#</a></span></h2>
+<ul>
+<li><a href="https://github.com/arut/nginx-rtmp-module/wiki/Directives#hls_sync">NGINX RTMP Module Directives</a></li>
+<li><a href="https://github.com/tiangolo/nginx-rtmp-docker/blob/master/Dockerfile">Tiangolo’s NGINX RTMP Docker</a></li>
+</ul>
+<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>The NGINX RTMP Module is a game-changer for live streaming, offering a powerful and flexible solution. Coupled with tools like FFmpeg, you can achieve professional-grade streaming setups with <strong>minimal effort</strong>. Start building your live streaming platform today!</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"nginx-rtmp-module","slug":"nginx-rtmp-module","title":"NGINX RTMP Module","excerpt":"Unleashing the Power of NGINX RTMP Module for Media Streaming. ","content":"$f","image":"/images/articles/nginx-rtmp-module2.png","published_at":"2024-10-01T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":4}]}],["$","$L10",null,{"currentPage":2,"totalPages":2,"baseUrl":"/articles"}]]}]]}]
