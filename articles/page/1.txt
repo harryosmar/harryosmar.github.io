@@ -7,13 +7,310 @@
 9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
 a:{"display":"inline-block"}
 b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
-0:["v--OMv78iZE1HZSYohz-w",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
+0:["Kum8O4eJQoEsvPOcF65SI",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
 c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Articles"}],["$","meta","3",{"name":"description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Articles"}],["$","meta","6",{"property":"og:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","7",{"property":"og:url","content":"https://www.harryosmarsitohang.com/articles/page/1"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Articles"}],["$","meta","11",{"name":"twitter:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","13",{"name":"next-size-adjust"}]]
 1:null
 d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"LastVisitedPageHandler"]
 e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"default"]
 14:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"Pagination"]
-f:T74c,<p>In a project, when proper analysis is <del>overlooked</del>, <strong>chaos</strong> often follows:</p>
+f:T441c,<blockquote>
+<p>Recommendation: Use zsh as your default shell for a smoother experience.</p>
+</blockquote>
+<h2 id="1-iterm2">1. Iterm2<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-iterm2" class="anchor" aria-hidden="true">#</a></span></h2>
+<blockquote>
+<p>Replace your default terminal with iTerm2—a modern terminal with advanced features.</p>
+</blockquote>
+<p><a href="https://iterm2.com/index.html">Download iTerm2</a></p>
+<p>Settings Update</p>
+<p>Enable natural text editing:</p>
+<pre><code>Settings > Profiles > Keys > Key Mappings > Presets... > Natural Text Editing
+</code></pre>
+<h2 id="2-homebrew">2. Homebrew<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-homebrew" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Homebrew is a package manager for macOS that simplifies installing software and libraries.</p>
+<ul>
+<li><a href="https://brew.sh/">Visit Homebrew Website</a></li>
+</ul>
+<p>Install Homebrew by running:</p>
+<pre><code class="hljs language-bash">/bin/bash -c <span class="hljs-string">"<span class="hljs-subst">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)</span>"</span>
+</code></pre>
+<h3 id="3-git">3. Git<span class="ml-2 opacity-0 hover:opacity-100"><a href="#3-git" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Git is essential for version control in software development.</p>
+<p>Install Git using Homebrew:</p>
+<pre><code class="hljs language-bash">brew install git
+</code></pre>
+<h4 id="31-ssh-key">3.1 ssh key</h4>
+<p>Set up SSH keys for secure access to Git repositories.</p>
+<ul>
+<li><a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Guide: Generating and Adding SSH Keys</a></li>
+</ul>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Generate a new SSH key:</span>
+ssh-keygen -t ed25519 -C <span class="hljs-string">"your_email@example.com"</span>
+
+<span class="hljs-comment"># Check your keys:</span>
+<span class="hljs-built_in">ls</span> ~/.ssh
+</code></pre>
+<p>Copy the public key:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">cat</span> ~/.ssh/id_ed25519.pub
+</code></pre>
+<p>Add it to your GitHub account <a href="https://github.com/settings/ssh/new">here</a>.</p>
+<h4 id="32-gitconfig">3.2 .gitconfig</h4>
+<p>Update your <code>~/.gitconfig</code> file:</p>
+<pre><code>[url "git@gitlab.com:"]
+	insteadOf = https://gitlab.com/
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[user]
+	name = Your Name
+	email = your_email@example.com
+</code></pre>
+<h2 id="4-oh-my-zsh">4. oh-my-zsh<span class="ml-2 opacity-0 hover:opacity-100"><a href="#4-oh-my-zsh" class="anchor" aria-hidden="true">#</a></span></h2>
+<blockquote>
+<p>Supercharge your shell with Oh My Zsh!</p>
+</blockquote>
+<p>Oh My Zsh provides themes and plugins to enhance your terminal experience.</p>
+<ul>
+<li><a href="https://ohmyz.sh/">Visit Oh My Zsh</a></li>
+</ul>
+<p>Install it with:</p>
+<pre><code class="hljs language-bash">sh -c <span class="hljs-string">"<span class="hljs-subst">$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)</span>"</span>
+</code></pre>
+<h2 id="5-asdf">5. asdf<span class="ml-2 opacity-0 hover:opacity-100"><a href="#5-asdf" class="anchor" aria-hidden="true">#</a></span></h2>
+<blockquote>
+<p>Manage multiple runtime versions with asdf.</p>
+</blockquote>
+<p>asdf simplifies managing different versions of programming languages and tools.</p>
+<ul>
+<li><a href="https://asdf-vm.com/">Visit asdf</a></li>
+</ul>
+<p>Recommend using the official git method</p>
+<p>Install asdf:</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.15.0
+</code></pre>
+<p>Add this to <code>~/.zshrc</code>:</p>
+<pre><code>. "$HOME/.asdf/asdf.sh"
+</code></pre>
+<h3 id="6-nodejs">6. nodejs<span class="ml-2 opacity-0 hover:opacity-100"><a href="#6-nodejs" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Install Node.js using asdf:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># install plugin nodejs</span>
+asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+
+<span class="hljs-comment"># list installed plugin</span>
+asdf plugin list
+
+<span class="hljs-comment"># Install a Version</span>
+asdf install nodejs nodejs
+
+<span class="hljs-comment"># Set a Version</span>
+asdf global nodejs nodejs
+
+<span class="hljs-comment"># check current nodejs version</span>
+node -v
+</code></pre>
+<p>Install global npm packages</p>
+<pre><code class="hljs language-bash">npm install -g yarn pnpm
+</code></pre>
+<h2 id="7-pyenv">7. Pyenv<span class="ml-2 opacity-0 hover:opacity-100"><a href="#7-pyenv" class="anchor" aria-hidden="true">#</a></span></h2>
+<blockquote>
+<p>Manage Python versions seamlessly.</p>
+</blockquote>
+<p>Pyenv helps you install and switch between Python versions easily.</p>
+<ul>
+<li><a href="https://github.com/pyenv/pyenv">Visit Pyenv</a></li>
+</ul>
+<p>Install Pyenv:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Update homebrew and install pyenv</span>
+brew update
+brew install pyenv
+</code></pre>
+<p>Update your shell environment:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">echo</span> <span class="hljs-string">'export PYENV_ROOT="$HOME/.pyenv"'</span> >> ~/.zshrc
+<span class="hljs-built_in">echo</span> <span class="hljs-string">'[[ -d $PYENV_ROOT/bin ]] &#x26;&#x26; export PATH="$PYENV_ROOT/bin:$PATH"'</span> >> ~/.zshrc
+<span class="hljs-built_in">echo</span> <span class="hljs-string">'eval "$(pyenv init - zsh)"'</span> >> ~/.zshrc
+<span class="hljs-built_in">source</span> ~/.zshrc
+</code></pre>
+<p>Install Python:</p>
+<pre><code class="hljs language-bash">pyenv install 3.10.4
+pyenv global 3.10.4
+</code></pre>
+<h3 id="71-venv">7.1 venv<span class="ml-2 opacity-0 hover:opacity-100"><a href="#71-venv" class="anchor" aria-hidden="true">#</a></span></h3>
+<blockquote>
+<p>A Python virtual environment (venv)</p>
+</blockquote>
+<p>Create and activate a virtual environment to isolate dependencies:</p>
+<ul>
+<li><a href="https://docs.python.org/3/library/venv.html">https://docs.python.org/3/library/venv.html</a></li>
+</ul>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">mkdir</span> demo-python &#x26;&#x26; <span class="hljs-built_in">cd</span>  demo-pyton
+python -m venv myvenv
+<span class="hljs-built_in">source</span>  myvenv/bin/activate
+</code></pre>
+<p><code>pip</code> usage in venv, eg: install <code>Flask</code></p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># install Flask api framework</span>
+pip install Flask
+</code></pre>
+<p>Create file <code>hello.py</code> inside <code>/demo-python</code> directory</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> flask <span class="hljs-keyword">import</span> Flask
+
+app = Flask(__name__)
+
+<span class="hljs-meta">@app.route(<span class="hljs-params"><span class="hljs-string">"/"</span></span>)</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">hello_world</span>():
+    <span class="hljs-keyword">return</span> <span class="hljs-string">"&#x3C;p>Hello, World!&#x3C;/p>"</span>
+</code></pre>
+<p>Serving Flask app <code>hello.py</code></p>
+<pre><code class="hljs language-bash">flask --app hello run
+</code></pre>
+<p>Create file <code>requirements.txt</code></p>
+<pre><code class="hljs language-bash">pip freeze > requirements.txt
+</code></pre>
+<h2 id="8java">8.Java<span class="ml-2 opacity-0 hover:opacity-100"><a href="#8java" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Java is essential for backend services and enterprise applications.</p>
+<p>Download and install your preferred version, <em>Choose <code>macOS</code> > ARM64 DMG Installer</em>:</p>
+<ul>
+<li><a href="https://www.oracle.com/id/java/technologies/downloads/#java23">java 23</a></li>
+<li><a href="https://www.oracle.com/id/java/technologies/downloads/#java11">java 11</a></li>
+</ul>
+<p>Update your <code>~/.zshrc</code></p>
+<pre><code>#export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+</code></pre>
+<p>Reload and verify:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">source</span> ~/.zshrc
+java --version
+</code></pre>
+<h2 id="9go">9.Go<span class="ml-2 opacity-0 hover:opacity-100"><a href="#9go" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Go is a fast and efficient language widely used for backend development.</p>
+<ul>
+<li><a href="https://go.dev/dl/">Download Go</a></li>
+</ul>
+<p>Configure Go environment, edit <code>~/.zshrc</code>, add content below:</p>
+<pre><code># Go private packages
+export GOPRIVATE=github.com/Your-Repo
+# Go Path
+export GOPATH="$HOME/go"
+# Go Root Versions
+#export GOROOT="$HOME/sdk/go1.23.4"
+#export GOROOT="$HOME/sdk/go1.23.0"
+export GOROOT="$HOME/sdk/go1.22.10"
+export GOBIN="$GOROOT/bin"
+export PATH=$GOBIN:$PATH
+</code></pre>
+<p>Reload and verify:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">source</span> ~/.zshrc
+go <span class="hljs-built_in">env</span>
+go version
+</code></pre>
+<p>Your code should stored in <code>$GOPATH/src</code>. Go mod package will be stored in <code>$GOPATH/pkg</code>.</p>
+<h2 id="10kube">10.Kube<span class="ml-2 opacity-0 hover:opacity-100"><a href="#10kube" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Kubernetes is essential for managing containerized applications.</p>
+<h3 id="101-kubeconfig">10.1 .kube/config<span class="ml-2 opacity-0 hover:opacity-100"><a href="#101-kubeconfig" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>First create your <code>~/.kube/config</code> file with format :</p>
+<pre><code class="hljs language-yaml"><span class="hljs-attr">apiVersion:</span> <span class="hljs-string">v1</span>
+<span class="hljs-attr">clusters:</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">cluster:</span>
+    <span class="hljs-attr">certificate-authority-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">server:</span> <span class="hljs-string">https://host1:port</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">cluster1</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">cluster:</span>
+    <span class="hljs-attr">certificate-authority-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">server:</span> <span class="hljs-string">https://host2:port</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">cluster2</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">cluster:</span>
+    <span class="hljs-attr">certificate-authority-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">server:</span> <span class="hljs-string">https://host3:port</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">cluster3</span>
+<span class="hljs-attr">contexts:</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">context:</span>
+    <span class="hljs-attr">cluster:</span> <span class="hljs-string">cluster1</span>
+    <span class="hljs-attr">namespace:</span> <span class="hljs-string">default</span>
+    <span class="hljs-attr">user:</span> <span class="hljs-string">me-cluster1-user</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster1-ctx</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">context:</span>
+    <span class="hljs-attr">cluster:</span> <span class="hljs-string">cluster2</span>
+    <span class="hljs-attr">namespace:</span> <span class="hljs-string">default</span>
+    <span class="hljs-attr">user:</span> <span class="hljs-string">me-cluster2-user</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster2-ctx</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">context:</span>
+    <span class="hljs-attr">cluster:</span> <span class="hljs-string">cluster3</span>
+    <span class="hljs-attr">namespace:</span> <span class="hljs-string">default</span>
+    <span class="hljs-attr">user:</span> <span class="hljs-string">me-cluster3-user</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster3-ctx</span>
+<span class="hljs-attr">current-context:</span> <span class="hljs-string">me-cluster1-ctx</span>
+<span class="hljs-attr">kind:</span> <span class="hljs-string">Config</span>
+<span class="hljs-attr">preferences:</span> {}
+<span class="hljs-attr">users:</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster1-user</span>
+  <span class="hljs-attr">user:</span>
+    <span class="hljs-attr">client-certificate-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">client-key-data:</span> <span class="hljs-string">KEY-DATA</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster2-user</span>
+  <span class="hljs-attr">user:</span>
+    <span class="hljs-attr">client-certificate-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">client-key-data:</span> <span class="hljs-string">KEY-DATA</span>
+<span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">me-cluster3-user</span>
+  <span class="hljs-attr">user:</span>
+    <span class="hljs-attr">client-certificate-data:</span> <span class="hljs-string">CERT-DATA</span>
+    <span class="hljs-attr">client-key-data:</span> <span class="hljs-string">KEY-DATA</span>
+</code></pre>
+<h3 id="102-kubectl">10.2 kubectl<span class="ml-2 opacity-0 hover:opacity-100"><a href="#102-kubectl" class="anchor" aria-hidden="true">#</a></span></h3>
+<p><a href="https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/">kubectl</a></p>
+<p>Download and set up kubectl:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Download the latest release</span>
+curl -LO <span class="hljs-string">"https://dl.k8s.io/release/<span class="hljs-subst">$(curl -L -s https://dl.k8s.io/release/stable.txt)</span>/bin/darwin/arm64/kubectl"</span>
+
+<span class="hljs-comment"># Validate the binary (optional)</span>
+curl -LO <span class="hljs-string">"https://dl.k8s.io/release/<span class="hljs-subst">$(curl -L -s https://dl.k8s.io/release/stable.txt)</span>/bin/darwin/arm64/kubectl.sha256"</span>
+
+<span class="hljs-comment"># Make the kubectl binary executable.</span>
+<span class="hljs-built_in">chmod</span> +x ./kubectl
+
+<span class="hljs-comment"># create /usr/local/bin if not exist</span>
+<span class="hljs-built_in">sudo</span> <span class="hljs-built_in">mkdir</span> -p /usr/local/bin
+
+<span class="hljs-comment"># Move the kubectl binary to a file location on your system PATH.</span>
+<span class="hljs-built_in">sudo</span> <span class="hljs-built_in">mv</span> ./kubectl /usr/local/bin/kubectl
+<span class="hljs-built_in">sudo</span> <span class="hljs-built_in">chown</span> root: /usr/local/bin/kubectl
+
+<span class="hljs-comment"># Test to ensure the version you installed is up-to-date</span>
+kubectl version --client
+</code></pre>
+<h3 id="103-zsh-kubectl-prompt">10.3 zsh-kubectl-prompt<span class="ml-2 opacity-0 hover:opacity-100"><a href="#103-zsh-kubectl-prompt" class="anchor" aria-hidden="true">#</a></span></h3>
+<p>Enhance your shell prompt with cluster info :</p>
+<ul>
+<li><a href="https://github.com/superbrothers/zsh-kubectl-prompt">zsh-kubectl-prompt</a></li>
+</ul>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">cd</span> ~
+git <span class="hljs-built_in">clone</span> git@github.com:superbrothers/zsh-kubectl-prompt
+</code></pre>
+<p>Update <code>~/.zshrc</code></p>
+<pre><code># kubeinfo
+autoload -U colors; colors
+source ~/zsh-kubectl-prompt/kubectl.zsh
+RPROMPT='%{$fg[green]%}($ZSH_KUBECTL_PROMPT)%{$reset_color%}'
+alias k='kubectl'
+alias ksn='_f(){k get namespace $1 > /dev/null; if [ $? -eq 1 ]; then return $?; fi;  k config set-context $(k config current-context) --namespace=$1; echo "Namespace: $1"};_f'
+alias ksc='_f(){k config get-contexts $1 > /dev/null; if [ $? -eq 1 ]; then return $?; fi;  k config use-context $1; echo "Context: $1"};_f'
+#Usage:
+#➜  ~ ksn dev1                                                       (dev-context/dev1)
+#     Context "dev-context" modified.
+#     Namespace: dev1
+
+#➜  ~ ksn ff                                                         (dev-context/dev1)
+#     Error from server (NotFound): namespaces "ff" not found
+[[ /usr/local/bin/kubectl ]] &#x26;&#x26; source &#x3C;(kubectl completion zsh)
+</code></pre>
+<h4 id="1031-switch-namespace">10.3.1 Switch namespace</h4>
+<p>Change namespace in current kube context<code>me-cluster1-ctx</code> namespace <code>default</code> to namespace <code>staging</code></p>
+<pre><code class="hljs language-bash">ksn staging
+</code></pre>
+<h4 id="1032-switch-context">10.3.2 Switch context</h4>
+<p>Change namespace in current kube context<code>me-cluster1-ctx</code> to context <code>me-cluster2-ctx</code></p>
+<pre><code class="hljs language-bash">ksc me-cluster2-ctx
+</code></pre>
+<blockquote>
+<p>That’s it! With these steps, your MacBook is primed for full-stack development. 🎉</p>
+</blockquote>10:T74c,<p>In a project, when proper analysis is <del>overlooked</del>, <strong>chaos</strong> often follows:</p>
 <ul>
 <li>Developers <strong>struggle</strong> <del>without clear requirements.</del></li>
 <li>Teams face <strong>delays</strong>, rework, and frustration.</li>
@@ -25,7 +322,7 @@ f:T74c,<p>In a project, when proper analysis is <del>overlooked</del>, <strong>c
 <p>✅ Guide stakeholders through the process. Stakeholders may overlook critical details or fail to recognize what’s necessary. Helping them <strong>clarify</strong> and refine their needs is one of the most rewarding parts of the role.</p>
 <p>✅ Validate and confirm the gathered information. <strong>Reviewing and aligning</strong> the understanding of requirements with both stakeholders and the team prevents costly assumptions and misunderstandings.</p>
 <p>These steps, though time-consuming, set the foundation for a successful project. Reflecting on my time as a Business Analyst, I found immense satisfaction in solving complex problems, bridging gaps between teams, and contributing to outcomes everyone could be proud of.</p>
-<p>Business Analysis taught me the importance of <strong>clarity and communication</strong>, and these lessons have stayed with me throughout my career.</p>10:T6680,<h2 id="-ollama-introduction">🦙 Ollama introduction<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-ollama-introduction" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Business Analysis taught me the importance of <strong>clarity and communication</strong>, and these lessons have stayed with me throughout my career.</p>11:T6680,<h2 id="-ollama-introduction">🦙 Ollama introduction<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-ollama-introduction" class="anchor" aria-hidden="true">#</a></span></h2>
 <p><a href="https://ollama.com/">Ollama</a> is a powerful platform designed to make it easy for developers <strong>to run large language models (LLMs) directly on their local computers</strong>, without needing a <del>big server</del> or expensive hardware like <del>high-end GPUs</del>.</p>
 <p>With <a href="https://ollama.com/">Ollama</a>, you can get up and running with models such as <code>Llama 3.3</code>, <code>Phi 3</code>, <code>Mistral</code>, <code>Gemma 2</code>, and more, all <del>without the need for specialized cloud infrastructure</del>.</p>
 <p>In short, <a href="https://ollama.com/">Ollama</a> democratizes access to cutting-edge <code>AI models</code>, making them <strong>accessible on personal computers</strong> and empowering developers to build AI solutions without the burden of <del>expensive server infrastructure</del>.</p>
@@ -325,7 +622,7 @@ python3 -m venv venv
 <h2 id="-credits">🏅 Credits<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-credits" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Give credits to <strong>Matt Williams</strong> with his youtube channel <a href="https://www.youtube.com/@technovangelist">https://www.youtube.com/@technovangelist</a></p>
 <p>He was part of the <strong>founding</strong> <a href="https://ollama.com/">Ollama</a> team. Don't forget to check out &#x26; subscribe to his channel, help him to reach 1 million subscribers.</p>
-<p>I learned a lot from his videos, thank you Matt, hats off to you! 👏</p>11:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
+<p>I learned a lot from his videos, thank you Matt, hats off to you! 👏</p>12:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
 <h2 id="requirements">Requirements<span class="ml-2 opacity-0 hover:opacity-100"><a href="#requirements" class="anchor" aria-hidden="true">#</a></span></h2>
 <pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
   <span class="hljs-attr">"dependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
@@ -482,7 +779,7 @@ export CACHE_TIMEOUT=1000
 </ul>
 <h2 id="-conclusion">🚀 Conclusion<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-conclusion" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Adding a Redis-powered cache middleware to Strapi can drastically improve performance, scalability, and user experience. By following this guide, you’ll have a flexible caching solution ready to handle high traffic while keeping your application responsive.</p>
-<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>12:T153e,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
+<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>13:T153e,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
 <p>Explore the demo: <a href="https://github.com/harryosmar/react-ffmpeg-wasm">FFMPEG WASM Demo Project</a>.</p>
 <img src="/images/mermaid/mermaid-41ceb72b91dfdd270008de8b93556b78.svg" alt="Mermaid diagram">
 <h2 id="-why-use-ffmpeg-wasm">🚀 Why Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
@@ -541,32 +838,4 @@ export CACHE_TIMEOUT=1000
 <li><a href="https://webreflection.medium.com/about-sharedarraybuffer-atomics-87f97ddfc098">About SharedArrayBuffer &#x26; Atomics</a>.</li>
 <li><a href="https://ffmpegwasm.netlify.app/">FFMPEG WASM Official Website</a>.</li>
 </ul>
-<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>13:Tc6d,<p>Streaming technologies are evolving to accommodate real-time content delivery with minimal latency. A particularly innovative approach involves <strong>combining WebSockets with FFMPEG</strong> to enable client-side streams to be processed and <strong>forwarded to RTMP channels</strong>. This article will explore the concept, its setup, and the pros and cons of this technique.</p>
-<p>Explore the Code:</p>
-<p>GitHub Repository: <a href="https://github.com/chuabingquan/pxy">chuabingquan/pxy 🎥 Proxy livestreams from WebSockets to RTMP</a>.</p>
-<h2 id="-how-it-works">🚀 How It Works<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-how-it-works" class="anchor" aria-hidden="true">#</a></span></h2>
-<img src="/images/mermaid/mermaid-8a4bc82f5f343e48a382f53df95e641c.svg" alt="Mermaid diagram">
-<h3 id="1-browser-connects-to-websocket-server">1. Browser Connects to WebSocket Server:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-browser-connects-to-websocket-server" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>The browser streams video data through the WebSocket protocol to the server.</p>
-<p><img src="/images/articles/3/in-progress-streaming.png" alt="start streaming to websocket using browser"></p>
-<h3 id="2-websocket-server-receives-and-processes-data">2. WebSocket Server Receives and Processes Data:<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2-websocket-server-receives-and-processes-data" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>The server receives the WebSocket message, processes the data, and forwards it as an FFmpeg command to the RTMP channel.</p>
-<p>The ffmpeg command.
-FFmpeg receives the WebSocket input and streams it to an RTMP endpoint for live broadcasting.</p>
-<pre><code class="hljs language-shell">
-ffmpeg -i - -vcodec copy -f flv -loglevel debug rtmp://localhost:1936/live/demo4
-</code></pre>
-<p><img src="/images/articles/3/websocket-server-to-rtmp.png" alt="websocket server forward stream messsage to RTMP channel"></p>
-<h2 id="-benefits">📺 Benefits<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-benefits" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>🟢 Ease of Use: Quickly establish a live streaming pipeline with WebSocket and FFmpeg.</li>
-<li>🟢 Minimal Server Overhead: The server acts as a simple proxy, offloading encoding and streaming tasks to FFmpeg.</li>
-</ul>
-<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>WebSocket Overhead: WebSockets can introduce latency when compared to direct RTMP input.</li>
-<li>Dependency on FFmpeg: Requires a working FFmpeg installation on the server.</li>
-</ul>
-<h2 id="-final-thoughts">🌟 Final Thoughts<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-final-thoughts" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>Integrating <strong>WebSockets and FFmpeg for live streaming</strong> is an effective way to bridge browser-based video sources and RTMP endpoints.</p>
-<p>Start streaming today and unlock new possibilities for browser-based live broadcasting!</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"business-analyst-point-of-view","slug":"business-analyst-point-of-view","title":"The Importance of Business Analysis","excerpt":"Proper analysis isn’t just about gathering requirements—it’s about asking the right questions, guiding stakeholders, and ensuring alignment among everyone involved.","content":"$f","image":"/images/articles/business-analyst-pov.jpeg","published_at":"2024-12-23T20:48:00+07:00","author":"anggraeni-wisono","reading_time":2},{"id":"ai-ollama-structured-output","slug":"ai-ollama-structured-output","title":"Unlocking the Power of AI: Ollama LLM with Structured Output","excerpt":"JSON schema in Ollama 🦙, revolutionizes the way we handle data extraction, response structuring, and consistency","content":"$10","image":"/images/articles/ai-ollama-structured-output.webp","published_at":"2024-12-12T22:53:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$11","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$12","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3},{"id":"websocket-to-ffmpeg-streaming","slug":"websocket-to-ffmpeg-streaming","title":"WebSocket to FFMPEG Streaming","excerpt":"Seamlessly Forwarding Live Streams to RTMP Channels.","content":"$13","image":"/images/articles/websocket-to-ffmpeg-streaming.png","published_at":"2024-10-02T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":2}]}],["$","$L14",null,{"currentPage":1,"totalPages":2,"baseUrl":"/articles"}]]}]]}]
+<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"mac-setup-for-fullstack-dev","slug":"mac-setup-for-fullstack-dev","title":"macbook setup guide for fullstack developer","excerpt":"This guide walks you through setting up key tools such as Git, oh-my-zsh, asdf for managing versions of different programming languages, and more.","content":"$f","image":"/images/articles/mac-setup-for-fullstack-dev.webp","published_at":"2024-12-28T15:00:00+07:00","author":"harry-osmar-sitohang","reading_time":5},{"id":"business-analyst-point-of-view","slug":"business-analyst-point-of-view","title":"The Importance of Business Analysis","excerpt":"Proper analysis isn’t just about gathering requirements—it’s about asking the right questions, guiding stakeholders, and ensuring alignment among everyone involved.","content":"$10","image":"/images/articles/business-analyst-pov.jpeg","published_at":"2024-12-23T20:48:00+07:00","author":"anggraeni-wisono","reading_time":2},{"id":"ai-ollama-structured-output","slug":"ai-ollama-structured-output","title":"Unlocking the Power of AI: Ollama LLM with Structured Output","excerpt":"JSON schema in Ollama 🦙, revolutionizes the way we handle data extraction, response structuring, and consistency","content":"$11","image":"/images/articles/ai-ollama-structured-output.webp","published_at":"2024-12-12T22:53:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$12","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$13","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3}]}],["$","$L14",null,{"currentPage":1,"totalPages":2,"baseUrl":"/articles"}]]}]]}]
