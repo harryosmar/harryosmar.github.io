@@ -1,19 +1,100 @@
 3:I[6702,[],""]
 5:I[8097,[],""]
-6:I[4865,["513","static/chunks/513-54c786173a9c666c.js","122","static/chunks/122-1e2541ae7fd00b15.js","948","static/chunks/app/(content)/layout-98a57fd1c16e634e.js"],"NavTabs"]
-7:I[4387,["185","static/chunks/app/layout-dc2409b386032b48.js"],"ThemeProvider"]
+6:I[4865,["513","static/chunks/513-54c786173a9c666c.js","122","static/chunks/122-1e2541ae7fd00b15.js","948","static/chunks/app/(content)/layout-e928e60977542457.js"],"NavTabs"]
+7:I[4387,["185","static/chunks/app/layout-599a8f016f6ff6df.js"],"ThemeProvider"]
 4:["page","1","d"]
 8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
 9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
 a:{"display":"inline-block"}
 b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
-0:["Kum8O4eJQoEsvPOcF65SI",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
+0:["Mui_tdjiU71vdLHCh2glj",[[["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__?{\"page\":\"1\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(content)",{"children":["articles",{"children":["page",{"children":[["page","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children","articles","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$L6",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(content)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b555c975a649a76.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 min-h-screen font-sans antialiased bg-background text-foreground dark:bg-neutral-900 dark:text-neutral-100 transition-colors","children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]],null],null],["$Lc",null]]]]
 c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Articles"}],["$","meta","3",{"name":"description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Articles"}],["$","meta","6",{"property":"og:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","meta","7",{"property":"og:url","content":"https://www.harryosmarsitohang.com/articles/page/1"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Articles"}],["$","meta","11",{"name":"twitter:description","content":"Thoughts, tutorials, and insights about web development, software engineering, and technology."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","13",{"name":"next-size-adjust"}]]
 1:null
-d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"LastVisitedPageHandler"]
-e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"default"]
-14:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-7061fbc43180fdf8.js"],"Pagination"]
-f:T441c,<blockquote>
+d:I[6243,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-803fb91c4fead796.js"],"LastVisitedPageHandler"]
+e:I[4315,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-803fb91c4fead796.js"],"default"]
+14:I[6676,["513","static/chunks/513-54c786173a9c666c.js","189","static/chunks/189-76139bfb22cdcfc2.js","829","static/chunks/app/(content)/articles/page/%5Bpage%5D/page-803fb91c4fead796.js"],"Pagination"]
+f:T14b1,<blockquote>
+<p>Forget boring docs! Let’s learn Docker and CI/CD as if we’re in a kitchen full of magical chefs, robot butlers, and delicious automation. (Still want the real techy stuff? <a href="https://www.docker.com/">Head to Docker's official site</a>.)</p>
+</blockquote>
+<h2 id="-page-1-docker--your-magic-kitchen-in-a-box">🚀 Page 1: Docker — Your Magic Kitchen in a Box<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-page-1-docker--your-magic-kitchen-in-a-box" class="anchor" aria-hidden="true">#</a></span></h2>
+<hr>
+<p><strong>Panel 1: Chaos in the Kitchen</strong></p>
+<p><em>Messy kitchen, chefs yelling, food burning.</em></p>
+<p>Text: “Chef Dino’s kitchen was a mess whenever a new chef joined.”</p>
+<hr>
+<p><strong>Panel 2: “It works on my stove!”</strong></p>
+<p><em>A confused chef serves a questionable dish.</em></p>
+<p>Dino sighs.</p>
+<p>Text: “Every chef’s setup was different. The recipes? Unpredictable.”</p>
+<hr>
+<p><strong>Panel 3: Enter the Wizard: Docker!</strong></p>
+<p><em>A wizard appears with a glowing box labeled ‘Docker’.</em></p>
+<p>Wizard: “Inside this box: your stove, your tools, your recipe — all ready to go!”</p>
+<hr>
+<p><strong>Panel 4: Cloning the Container</strong></p>
+<p><em>Dino clones the Docker box and ships it to chefs around the world.</em></p>
+<p>Text: “Now, every chef makes the same dish, every time, everywhere!”</p>
+<hr>
+<img src="/images/mermaid/mermaid-9ef9322b7712741905d1acc07586d5f7.svg" alt="Mermaid diagram">
+<h2 id="page-2-cicd--the-devops-butler">Page 2: CI/CD — The DevOps Butler<span class="ml-2 opacity-0 hover:opacity-100"><a href="#page-2-cicd--the-devops-butler" class="anchor" aria-hidden="true">#</a></span></h2>
+<hr>
+<p><strong>Panel 1: Dino Still Tired</strong></p>
+<p><em>Dino checks a long to-do list, manually taste-tests dishes.</em></p>
+<p>Text: “Even with Docker, Dino had to test and deliver every dish by hand.”</p>
+<hr>
+<p><strong>Panel 2: Meet Jenkins! - the CI/CD robot butler</strong></p>
+<p><em>A classy robot butler rolls in with gears and a clipboard.</em></p>
+<p>Jenkins: “Sir, I’ll automate your entire kitchen!”</p>
+<hr>
+<p><strong>Panel 3: CI/CD Conveyor Belt Magic</strong></p>
+<p><em>Jenkins oversees a conveyor belt with four fun steps:</em></p>
+<p>Jenkins: “Sir, I’ll automate your entire kitchen!”</p>
+<ul>
+<li>🧪 Build – Mix the ingredients</li>
+<li>✅ Test – Taste test it</li>
+<li>📦 Package – Put it in a Docker box</li>
+<li>🚀 Deploy – Serve it hot!</li>
+</ul>
+<hr>
+<p><strong>Panel 4: Code Pushed = Auto Magic</strong></p>
+<p><em>A Dev-Chef taps “Push” on GitHub. Jenkins jumps into action!</em></p>
+<p>Jenkins springs into action along the belt.</p>
+<p>Text: “Each new recipe triggers the pipeline automatically!”</p>
+<hr>
+<img src="/images/mermaid/mermaid-2dcc391f8b1831f1f03ab64d636ee836.svg" alt="Mermaid diagram">
+<h2 id="page-3-cicd-success--kitchen-zen-achieved">Page 3: CI/CD Success — Kitchen Zen Achieved<span class="ml-2 opacity-0 hover:opacity-100"><a href="#page-3-cicd-success--kitchen-zen-achieved" class="anchor" aria-hidden="true">#</a></span></h2>
+<hr>
+<p><strong>Panel 1: Smiles All Around</strong></p>
+<p><em>Dino relaxes with tea. Jenkins bows. Customers devour perfect meals.</em></p>
+<p>Text: “Thanks to automation, every dish is a hit!”</p>
+<hr>
+<p><strong>Panel 2: What’s in  CI/CD Pipeline Summary Scroll?</strong></p>
+<p><em>A scroll labeled “DevOps Spellbook” floats in the air.</em></p>
+<ul>
+<li>CI (Continuous Integration): Test every recipe change 🧪</li>
+<li>CD (Delivery): Ready to go at any moment 📦</li>
+<li>CD (Deployment): Serve it automatically! 🚀</li>
+</ul>
+<hr>
+<p><strong>Panel 3: Dino’s Quote of the Day</strong></p>
+<p><em>Spotlight on Dino in a chef’s hat.</em></p>
+<p>Dino: “With Docker and Jenkins, my kitchen runs itself — faster, safer, and tastier!”</p>
+<p><strong>End Caption:</strong></p>
+<p><em>🦖 The DevOps Kitchen: Where every push becomes a perfect plate!</em></p>
+<hr>
+<h2 id="complete-flow">Complete Flow<span class="ml-2 opacity-0 hover:opacity-100"><a href="#complete-flow" class="anchor" aria-hidden="true">#</a></span></h2>
+<img src="/images/mermaid/mermaid-c13b93678655026429e4dfbd8b9c3cfe.svg" alt="Mermaid diagram">
+<h2 id="-further-reading-level-up-your-devops-skills">📚 Further Reading: Level Up Your DevOps Skills<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-further-reading-level-up-your-devops-skills" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Want to go beyond the comic kitchen? Here are some awesome official resources to explore more:</p>
+<p>🐳 Docker – What is a Container?
+Learn how Docker works and why it's so powerful:
+👉 <a href="https://www.docker.com/resources/what-container/">https://www.docker.com/resources/what-container/</a></p>
+<p>🤖 Jenkins – Automation Superpowers
+Dive into Jenkins docs and pipelines:
+👉 <a href="https://www.jenkins.io/doc/">https://www.jenkins.io/doc/</a></p>
+<p>🔁 CI/CD Explained – From Code to Deployment
+Atlassian’s beginner-friendly guide on Continuous Integration &#x26; Continuous Delivery:
+👉 <a href="https://www.atlassian.com/continuous-delivery">https://www.atlassian.com/continuous-delivery</a></p>10:T4543,<blockquote>
 <p>Recommendation: Use zsh as your default shell for a smoother experience.</p>
 </blockquote>
 <h2 id="1-iterm2">1. Iterm2<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-iterm2" class="anchor" aria-hidden="true">#</a></span></h2>
@@ -109,6 +190,9 @@ node -v
 <p>Install global npm packages</p>
 <pre><code class="hljs language-bash">npm install -g yarn pnpm
 </code></pre>
+<p>Add this to <code>~/.zshrc</code>:</p>
+<pre><code>export NODE_PATH=$(npm root -g)
+</code></pre>
 <h2 id="7-pyenv">7. Pyenv<span class="ml-2 opacity-0 hover:opacity-100"><a href="#7-pyenv" class="anchor" aria-hidden="true">#</a></span></h2>
 <blockquote>
 <p>Manage Python versions seamlessly.</p>
@@ -195,6 +279,12 @@ export GOPATH="$HOME/go"
 export GOROOT="$HOME/sdk/go1.22.10"
 export GOBIN="$GOROOT/bin"
 export PATH=$GOBIN:$PATH
+</code></pre>
+<p>don't forget to install <code>golang/mock/mockgen</code></p>
+<pre><code>go install github.com/golang/mock/mockgen@latest
+
+# you should see mockgen executable in $GOBIN
+ls $GOBIN 
 </code></pre>
 <p>Reload and verify:</p>
 <pre><code class="hljs language-bash"><span class="hljs-built_in">source</span> ~/.zshrc
@@ -310,7 +400,7 @@ alias ksc='_f(){k config get-contexts $1 > /dev/null; if [ $? -eq 1 ]; then retu
 </code></pre>
 <blockquote>
 <p>That’s it! With these steps, your MacBook is primed for full-stack development. 🎉</p>
-</blockquote>10:T74c,<p>In a project, when proper analysis is <del>overlooked</del>, <strong>chaos</strong> often follows:</p>
+</blockquote>11:T74c,<p>In a project, when proper analysis is <del>overlooked</del>, <strong>chaos</strong> often follows:</p>
 <ul>
 <li>Developers <strong>struggle</strong> <del>without clear requirements.</del></li>
 <li>Teams face <strong>delays</strong>, rework, and frustration.</li>
@@ -322,7 +412,7 @@ alias ksc='_f(){k config get-contexts $1 > /dev/null; if [ $? -eq 1 ]; then retu
 <p>✅ Guide stakeholders through the process. Stakeholders may overlook critical details or fail to recognize what’s necessary. Helping them <strong>clarify</strong> and refine their needs is one of the most rewarding parts of the role.</p>
 <p>✅ Validate and confirm the gathered information. <strong>Reviewing and aligning</strong> the understanding of requirements with both stakeholders and the team prevents costly assumptions and misunderstandings.</p>
 <p>These steps, though time-consuming, set the foundation for a successful project. Reflecting on my time as a Business Analyst, I found immense satisfaction in solving complex problems, bridging gaps between teams, and contributing to outcomes everyone could be proud of.</p>
-<p>Business Analysis taught me the importance of <strong>clarity and communication</strong>, and these lessons have stayed with me throughout my career.</p>11:T6680,<h2 id="-ollama-introduction">🦙 Ollama introduction<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-ollama-introduction" class="anchor" aria-hidden="true">#</a></span></h2>
+<p>Business Analysis taught me the importance of <strong>clarity and communication</strong>, and these lessons have stayed with me throughout my career.</p>12:T6680,<h2 id="-ollama-introduction">🦙 Ollama introduction<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-ollama-introduction" class="anchor" aria-hidden="true">#</a></span></h2>
 <p><a href="https://ollama.com/">Ollama</a> is a powerful platform designed to make it easy for developers <strong>to run large language models (LLMs) directly on their local computers</strong>, without needing a <del>big server</del> or expensive hardware like <del>high-end GPUs</del>.</p>
 <p>With <a href="https://ollama.com/">Ollama</a>, you can get up and running with models such as <code>Llama 3.3</code>, <code>Phi 3</code>, <code>Mistral</code>, <code>Gemma 2</code>, and more, all <del>without the need for specialized cloud infrastructure</del>.</p>
 <p>In short, <a href="https://ollama.com/">Ollama</a> democratizes access to cutting-edge <code>AI models</code>, making them <strong>accessible on personal computers</strong> and empowering developers to build AI solutions without the burden of <del>expensive server infrastructure</del>.</p>
@@ -622,7 +712,7 @@ python3 -m venv venv
 <h2 id="-credits">🏅 Credits<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-credits" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Give credits to <strong>Matt Williams</strong> with his youtube channel <a href="https://www.youtube.com/@technovangelist">https://www.youtube.com/@technovangelist</a></p>
 <p>He was part of the <strong>founding</strong> <a href="https://ollama.com/">Ollama</a> team. Don't forget to check out &#x26; subscribe to his channel, help him to reach 1 million subscribers.</p>
-<p>I learned a lot from his videos, thank you Matt, hats off to you! 👏</p>12:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
+<p>I learned a lot from his videos, thank you Matt, hats off to you! 👏</p>13:T3f73,<p>Caching is an essential optimization technique in web development, helping <strong>reduce database load</strong> and significantly <strong>speeding up response times</strong>. If you’re building a Strapi-based application, adding a caching layer can make your API lightning-fast while maintaining scalability.</p>
 <h2 id="requirements">Requirements<span class="ml-2 opacity-0 hover:opacity-100"><a href="#requirements" class="anchor" aria-hidden="true">#</a></span></h2>
 <pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
   <span class="hljs-attr">"dependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
@@ -779,63 +869,4 @@ export CACHE_TIMEOUT=1000
 </ul>
 <h2 id="-conclusion">🚀 Conclusion<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-conclusion" class="anchor" aria-hidden="true">#</a></span></h2>
 <p>Adding a Redis-powered cache middleware to Strapi can drastically improve performance, scalability, and user experience. By following this guide, you’ll have a flexible caching solution ready to handle high traffic while keeping your application responsive.</p>
-<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>13:T153e,<p>FFMPEG WASM is a powerful library that brings the capabilities of FFMPEG, the industry-standard multimedia tool, directly to the browser. By leveraging WebAssembly, it enables client-side video and audio processing, including recording, transcoding, and even streaming—all without relying on server-side infrastructure.</p>
-<p>Explore the demo: <a href="https://github.com/harryosmar/react-ffmpeg-wasm">FFMPEG WASM Demo Project</a>.</p>
-<img src="/images/mermaid/mermaid-41ceb72b91dfdd270008de8b93556b78.svg" alt="Mermaid diagram">
-<h2 id="-why-use-ffmpeg-wasm">🚀 Why Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-why-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>
-<p><strong>Offloads Server Load</strong>: Shift intensive video encoding tasks to the client-side, reducing server costs and improving scalability.</p>
-</li>
-<li>
-<p>Full Browser Compatibility: Enables real-time video and audio <strong>processing directly in user agents</strong> (browsers).</p>
-</li>
-<li>
-<p>SharedArrayBuffer for Multi-Threading: Leverages efficient memory management and <strong>multi-threading</strong> to handle large media files seamlessly.</p>
-</li>
-<li>
-<p>Versatile Media Formats: Transcode and <strong>convert</strong> between various video and audio formats directly in the browser.</p>
-</li>
-</ul>
-<h2 id="-advantages">🟢 Advantages<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-advantages" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>Scalable Architecture: Encode, convert, and process media <strong>on the client side</strong>, freeing server resources.</li>
-<li>Efficient Multi-Threading: Uses SharedArrayBuffer to minimize memory usage and boost <strong>performance</strong>.</li>
-<li>Cross-Platform: Works across modern browsers with <strong>WebAssembly</strong> support.</li>
-<li>No Installation Needed: <strong>Lightweight</strong> and runs entirely in the browser.</li>
-</ul>
-<p>.</p>
-<h2 id="-limitations">🔴 Limitations<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-limitations" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>Large File Size: The ffmpeg-core.wasm file (~32 MB) <strong>must be downloaded</strong> by the client, which could affect load times.</li>
-<li>No RTMP Streaming: While <strong>transcoding</strong> is supported, <del>live streaming</del> to RTMP endpoints is not included.</li>
-<li>Complex Headers Setup: Requires CORS and security headers (COEP, COOP, CORP) for enabling features like <strong>SharedArrayBuffer</strong>.</li>
-</ul>
-<h2 id="-how-to-use-ffmpeg-wasm">🔧 How to Use FFMPEG WASM?<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-how-to-use-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
-<h3 id="1-install-static-handler-for-headers">1. Install Static Handler for Headers<span class="ml-2 opacity-0 hover:opacity-100"><a href="#1-install-static-handler-for-headers" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>To use <code>SharedArrayBuffer</code> in the browser, add these headers to your server:</p>
-<pre><code class="hljs language-js">{
-    <span class="hljs-string">"Cross-Origin-Embedder-Policy"</span>: <span class="hljs-string">"require-corp"</span>,
-    <span class="hljs-string">"Cross-Origin-Opener-Policy"</span>: <span class="hljs-string">"same-origin"</span>
-}
-</code></pre>
-<p>Serve your static files with:</p>
-<pre><code class="hljs language-shell">npx static-handler --cors --coop --coep --corp -p 8080 ./
-</code></pre>
-<h3 id="2efficient-media-processing">2.Efficient Media Processing<span class="ml-2 opacity-0 hover:opacity-100"><a href="#2efficient-media-processing" class="anchor" aria-hidden="true">#</a></span></h3>
-<p>Transcode videos or process audio files directly in the browser, reducing server dependency.</p>
-<h2 id="-real-benefits-of-using-ffmpeg-wasm">🌟 Real Benefits of Using FFMPEG WASM<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-real-benefits-of-using-ffmpeg-wasm" class="anchor" aria-hidden="true">#</a></span></h2>
-<ul>
-<li>On-the-Fly Media Conversion: Easily convert user-uploaded videos to compatible formats <strong>directly in the browser</strong>.</li>
-<li>Improved User Experience: Enable users to edit, trim, and enhance videos <strong>without uploading files to a server</strong>.</li>
-<li>Cost-Effective: <del>No need for expensive</del> server-side transcoding infrastructure.</li>
-</ul>
-<h2 id="️-demo-in-action">🖥️ Demo in Action<span class="ml-2 opacity-0 hover:opacity-100"><a href="#️-demo-in-action" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>Check out this real-world example <a href="https://github.com/harryosmar/react-ffmpeg-wasm">FFMPEG WASM Demo Project</a>.</p>
-<h2 id="-learn-more">🧠 Learn More<span class="ml-2 opacity-0 hover:opacity-100"><a href="#-learn-more" class="anchor" aria-hidden="true">#</a></span></h2>
-<p>For a deep dive into how SharedArrayBuffer optimizes memory usage and enables multi-threading, read:</p>
-<ul>
-<li><a href="https://webreflection.medium.com/about-sharedarraybuffer-atomics-87f97ddfc098">About SharedArrayBuffer &#x26; Atomics</a>.</li>
-<li><a href="https://ffmpegwasm.netlify.app/">FFMPEG WASM Official Website</a>.</li>
-</ul>
-<p>By embracing FFMPEG WASM, you bring cutting-edge <strong>video and audio processing</strong> to your browser-based applications—efficiently and cost-effectively.</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"mac-setup-for-fullstack-dev","slug":"mac-setup-for-fullstack-dev","title":"macbook setup guide for fullstack developer","excerpt":"This guide walks you through setting up key tools such as Git, oh-my-zsh, asdf for managing versions of different programming languages, and more.","content":"$f","image":"/images/articles/mac-setup-for-fullstack-dev.webp","published_at":"2024-12-28T15:00:00+07:00","author":"harry-osmar-sitohang","reading_time":5},{"id":"business-analyst-point-of-view","slug":"business-analyst-point-of-view","title":"The Importance of Business Analysis","excerpt":"Proper analysis isn’t just about gathering requirements—it’s about asking the right questions, guiding stakeholders, and ensuring alignment among everyone involved.","content":"$10","image":"/images/articles/business-analyst-pov.jpeg","published_at":"2024-12-23T20:48:00+07:00","author":"anggraeni-wisono","reading_time":2},{"id":"ai-ollama-structured-output","slug":"ai-ollama-structured-output","title":"Unlocking the Power of AI: Ollama LLM with Structured Output","excerpt":"JSON schema in Ollama 🦙, revolutionizes the way we handle data extraction, response structuring, and consistency","content":"$11","image":"/images/articles/ai-ollama-structured-output.webp","published_at":"2024-12-12T22:53:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$12","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"ffmpeg-wasm","slug":"ffmpeg-wasm","title":"Mastering FFMPEG WASM","excerpt":"Revolutionizing Video and Audio Processing in the Browser","content":"$13","image":"/images/articles/ffmpeg-wasm2.png","published_at":"2024-10-20T00:00:00+07:00","author":"harry-osmar-sitohang","reading_time":3}]}],["$","$L14",null,{"currentPage":1,"totalPages":2,"baseUrl":"/articles"}]]}]]}]
+<p>Give your Strapi API a performance boost—start caching with Redis today! 🚀</p>2:["$","div",null,{"className":"min-h-screen bg-white dark:bg-neutral-900","children":[["$","$Ld",null,{}],["$","div",null,{"className":"max-w-[min(65ch,90vw)] mx-auto px-4 py-12","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":["$","div",null,{"children":["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Thoughts, tutorials, and insights about web development"}]}]}],["$","$Le",null,{"articles":[{"id":"docker-and-cicd","slug":"docker-and-cicd","title":"Explain Docker and CI/CD — The DevOps Kitchen Comic","excerpt":"to help understand Docker in a fun way. You can imagine this as a series of comic panels featuring characters and metaphors","content":"$f","image":"/images/articles/docker-dino-kitchen.png","published_at":"2025-05-21T19:41:00+07:00","author":"harry-osmar-sitohang","reading_time":4},{"id":"mac-setup-for-fullstack-dev","slug":"mac-setup-for-fullstack-dev","title":"macbook setup guide for fullstack developer","excerpt":"This guide walks you through setting up key tools such as Git, oh-my-zsh, asdf for managing versions of different programming languages, and more.","content":"$10","image":"/images/articles/mac-setup-for-fullstack-dev.webp","published_at":"2024-12-28T15:00:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"business-analyst-point-of-view","slug":"business-analyst-point-of-view","title":"The Importance of Business Analysis","excerpt":"Proper analysis isn’t just about gathering requirements—it’s about asking the right questions, guiding stakeholders, and ensuring alignment among everyone involved.","content":"$11","image":"/images/articles/business-analyst-pov.jpeg","published_at":"2024-12-23T20:48:00+07:00","author":"anggraeni-wisono","reading_time":2},{"id":"ai-ollama-structured-output","slug":"ai-ollama-structured-output","title":"Unlocking the Power of AI: Ollama LLM with Structured Output","excerpt":"JSON schema in Ollama 🦙, revolutionizes the way we handle data extraction, response structuring, and consistency","content":"$12","image":"/images/articles/ai-ollama-structured-output.webp","published_at":"2024-12-12T22:53:00+07:00","author":"harry-osmar-sitohang","reading_time":6},{"id":"strapi-middleware-cache","slug":"strapi-middleware-cache","title":"Implementing a Redis-Powered Cache Middleware in Strapi","excerpt":"This article dives into creating and configuring a Redis-powered cache middleware for Strapi. You’ll learn how to handle dynamic caching, invalidate caches, and configure Redis seamlessly.","content":"$13","image":"/images/articles/strapi-middleware-cache.webp","published_at":"2024-12-10T12:49:00+07:00","author":"harry-osmar-sitohang","reading_time":4}]}],["$","$L14",null,{"currentPage":1,"totalPages":2,"baseUrl":"/articles"}]]}]]}]
